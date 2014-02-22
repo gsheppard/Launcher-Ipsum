@@ -25,6 +25,7 @@ def get_sentence lines
 		words_ctr += 1
 	end
 
+	sentence[0].capitalize!
 	sentence
 end
 
@@ -46,7 +47,7 @@ puts "---------------------------------"
 loop_ctr = 0
 while num_paragraphs > loop_ctr
 
-	sent_per_paragraph = rand(4..15)
+	sent_per_paragraph = rand(4..12)
 	sent_ctr = 0
 	single_paragraph = []
 
@@ -63,7 +64,7 @@ end
 ipsum.each do |para|
 	print "\t"
 	para.each do |sent|
-		print sent.join(' ') + '.'
+		print sent.join(' ') + '. '
 	end
 	puts
 end

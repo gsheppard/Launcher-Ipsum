@@ -21,7 +21,7 @@
 :21: absolute manometer
 :22: absolute motion
 :23: absolute pressure
-:24: absolute refractive index 
+:24: absolute refractive index
 :25: absolute system of units
 :26: absolute temperature
 :27: absolute temperature scale
@@ -31,10 +31,10 @@
 :31: absorptance absorbtance
 :32: absorption
 :33: absorption band
-:34: absorption coefficient 
+:34: absorption coefficient
 :35: absorption cross section
 :36: absorptionemission pyrometer
-:37: absorption factor 
+:37: absorption factor
 :38: absorption line
 :39: absorption spectrum
 :40: absorptive index
@@ -42,7 +42,7 @@
 :42: absorptivity
 :43: absorptivityemissivity ratio
 :44: acceleration
-:45: acceleration of gravity 
+:45: acceleration of gravity
 :46: accelerator
 :47: accelerometer
 :48: acceptor
@@ -62,7 +62,7 @@
 :62: acoustic refraction
 :63: acoustics
 :64: acoustic streaming
-:65: acoustic velocity 
+:65: acoustic velocity
 :66: acoustic vibration
 :67: acoustic wave
 :68: acquisition
@@ -90,13 +90,13 @@
 :90: adapter
 :91: adapter skirt
 :92: adaptive control system
-:93: ADC 
+:93: ADC
 :94: Adcock antenna
 :95: adder
 :96: additional apparent mass
 :97: additive
 :98: address
-:99: ADF 
+:99: ADF
 :100: adiabat
 :101: adiabatic
 :102: adiabatic atmosphere
@@ -107,7 +107,7 @@
 :107: adiabatic recovery temperature
 :108: adiabatic wall temperature
 :109: Adisplay
-:110: ADP 
+:110: ADP
 :111: adsorbate
 :112: adsorbent
 :113: adsorption
@@ -147,7 +147,7 @@
 :147: aerothermodynamic duct
 :148: aerothermodynamics
 :149: aerothermoelasticity
-:150: AFC 
+:150: AFC
 :151: afterbody
 :152: afterburner
 :153: afterburning
@@ -174,7 +174,7 @@
 :174: air launch
 :175: air light
 :176: air lock
-:177: air position indicator 
+:177: air position indicator
 :178: airscoop
 :179: air shower
 :180: airsickness
@@ -194,7 +194,7 @@
 :194: Alfv233n Mach number
 :195: Alfv233n speed
 :196: Alfv233n wave
-:197: alga 
+:197: alga
 :198: algorism
 :199: algorithm
 :200: alidade
@@ -206,14 +206,14 @@
 :206: almucantar
 :207: alpha decay
 :208: alpha disintegration
-:209: alphanumeric 
+:209: alphanumeric
 :210: alpha particle
 :211: alpha ray
 :212: altimeter
 :213: altitude
 :214: altitude acclimatization
 :215: altitude chamber
-:216: altitude circle 
+:216: altitude circle
 :217: altitude difference
 :218: altitude intercept
 :219: altitude sickness
@@ -221,13 +221,13 @@
 :221: alveolar air
 :222: alveolar oxygen pressure
 :223: alveoli
-:224: AM 
+:224: AM
 :225: ambient
 :226: ambient noise
 :227: ambiguity
 :228: American Ephemeris and Nautical Almanac
 :229: American Nautical Almanac
-:230: ampere 
+:230: ampere
 :231: amplidyne
 :232: amplifier
 :233: amplitude
@@ -240,13 +240,14 @@
 :240: analog output
 :241: analog to digital conversion
 :242: analog to digital converter
-:243: :244: analytical photography
+:243: 
+:244: analytical photography
 :245: AND
 :246: And Andr
-:247: AND circuit 
+:247: AND circuit
 :248: AND gate and gate
 :249: ANDNOT gate  exclusive OR circuit
-:250: Andromeda 
+:250: Andromeda
 :251: aneroid
 :252: angel
 :253: angle
@@ -275,7 +276,7 @@
 :276: angular rate
 :277: angular resolution
 :278: angular speed
-:279: angular velocity 
+:279: angular velocity
 :280: anisotropic
 :281: annealing
 :282: annual parallax
@@ -288,7 +289,7 @@
 :289: anomalous dispersion
 :290: anomalous propagation
 :291: anomaly
-:292: anoxaemia 
+:292: anoxaemia
 :293: anoxia
 :294: Ant Antl
 :295: antapex
@@ -299,25 +300,25 @@
 :300: antenna gain
 :301: antenna null
 :302: antenna pair
-:303: antenna pattern 
+:303: antenna pattern
 :304: antenna temperature
 :305: anticyclonic
 :306: antigravity
-:307: antig suit 
+:307: antig suit
 :308: antimatter
 :309: antinode
 :310: antiparticle
 :311: antipode
 :312: antiresonance
 :313: antisolar point
-:314: Antlia 
+:314: Antlia
 :315: apareon
 :316: apastron
 :317: aperiodic
 :318: aperture
 :319: aperture ratio
-:320: apex of the suns motion 
-:321: apex of the suns way 
+:320: apex of the suns motion
+:321: apex of the suns way
 :322: aphelion
 :323: apoapsis
 :324: apocenter
@@ -343,23 +344,23 @@
 :344: appulse
 :345: apron
 :346: Aps Apus
-:347: apse 
+:347: apse
 :348: apsides
 :349: apsis
-:350: APU 
+:350: APU
 :351: Aql Aqil
-:352: Aquarius 
+:352: Aquarius
 :353: aqueous vapor
-:354: Aquila 
-:355: Ara 
+:354: Aquila
+:355: Ara
 :356: Arago point
 :357: arc
 :358: arc discharge
 :359: arc spectrum
 :360: arcs with ray structure
-:361: arctic blackout 
+:361: arctic blackout
 :362: ARDC model atmosphere
-:363: areal radiant intensity 
+:363: areal radiant intensity
 :364: areal velocity
 :365: area rule
 :366: areo
@@ -367,14 +368,14 @@
 :368: areography
 :369: Ares
 :370: Arg
-:371: Argo 
+:371: Argo
 :372: argument
 :373: argument of latitude
 :374: argument of perigee
 :375: Ari Arie
 :376: Ariel
-:377: Aries 
-:378: arithmetic element 
+:377: Aries
+:378: arithmetic element
 :379: arithmetic mean
 :380: arithmetic unit
 :381: array
@@ -433,54 +434,54 @@
 :434: astronomical parallel
 :435: astronomical position
 :436: astronomical refraction
-:437: astronomical refraction error 
+:437: astronomical refraction error
 :438: astronomical scintillation
 :439: astronomical seeing
 :440: astronomical solar time
 :441: astronomical time
 :442: astronomical triangle
 :443: astronomical twilight
-:444: astronomical unit 
+:444: astronomical unit
 :445: astronomical year
 :446: astronomy
 :447: astrophysics
-:448: astrotracker 
+:448: astrotracker
 :449: asynchronous computer
 :450: atelectasis
 :451: athodyd
 :452: atmosphere
-:453: atmospheric boil 
-:454: atmospheric boundary layer 
+:453: atmospheric boil
+:454: atmospheric boundary layer
 :455: atmospheric braking
 :456: atmospheric duct
 :457: atmospheric electric field
 :458: atmospheric electricity
 :459: atmospheric entry
-:460: atmospheric interference 
+:460: atmospheric interference
 :461: atmospheric ion
-:462: atmospheric layer 
-:463: atmospheric noise 
+:462: atmospheric layer
+:463: atmospheric noise
 :464: atmospheric optics
-:465: atmospheric oscillation 
-:466: atmospheric physics 
+:465: atmospheric oscillation
+:466: atmospheric physics
 :467: atmospheric pressure
 :468: atmospheric radiation
-:469: atmospheric region 
+:469: atmospheric region
 :470: atmospheric refraction
 :471: atmospherics
-:472: atmospheric scintillation 
+:472: atmospheric scintillation
 :473: atmospheric shell
-:474: atmospheric shimmer 
+:474: atmospheric shimmer
 :475: atmospheric tide
 :476: atmospheric transmissivity
 :477: atomic clock
 :478: atomic mass
-:479: atomic mass unit 
-:480: atomic number 
+:479: atomic mass unit
+:480: atomic number
 :481: atomic particle
 :482: atomic rocket
-:483: atomic weight 
-:484: atomic weight unit 
+:483: atomic weight
+:484: atomic weight unit
 :485: Atrace
 :486: attached shock
 :487: attached shock wave
@@ -489,7 +490,7 @@
 :490: attenuation
 :491: attenuation coefficient
 :492: attenuation constant
-:493: attenuation factor 
+:493: attenuation factor
 :494: attenuation length
 :495: attenuation ratio
 :496: attitude
@@ -498,7 +499,7 @@
 :499: attitude jet
 :500: attribute
 :501: attributes testing
-:502: AU 
+:502: AU
 :503: audible sound
 :504: audio
 :505: audio frequency
@@ -511,7 +512,7 @@
 :512: augmenter tube
 :513: Aur Auri
 :514: aural null
-:515: Auriga 
+:515: Auriga
 :516: aurora
 :517: aurora australis
 :518: aurora borealis
@@ -520,7 +521,7 @@
 :521: austausch coefficient
 :522: australite
 :523: authorized carrier frequency
-:524: autoconvection gradient 
+:524: autoconvection gradient
 :525: autoconvective lapse rate
 :526: autocorrelation
 :527: autocorrelation function
@@ -531,9 +532,9 @@
 :532: automatic computer
 :533: automatic control
 :534: automatic data processing system
-:535: automatic direction finder 
-:536: automatic frequency control 
-:537: automatic gain control 
+:535: automatic direction finder
+:536: automatic frequency control
+:537: automatic gain control
 :538: automatic pilot
 :539: automatic stability
 :540: automatic tracking
@@ -544,7 +545,7 @@
 :545: auxiliary circle
 :546: auxiliary fluid ignition
 :547: auxiliary landing gear
-:548: auxiliary power unit 
+:548: auxiliary power unit
 :549: avalanche
 :550: average
 :551: average deviation
@@ -552,9 +553,9 @@
 :553: aviation medicine
 :554: Avogadro constant
 :555: Avogadro law
-:556: Avogadro number Avogadro constant 
+:556: Avogadro number Avogadro constant
 :557: axial flow compressor
-:558: axis 
+:558: axis
 :559: axis of freedom
 :560: axis of thrust
 :561: azimuth
@@ -574,8 +575,8 @@
 :575: backout
 :576: back pressure
 :577: back radiation
-:578: back scatter 
-:579: back scattering 
+:578: back scatter
+:579: back scattering
 :580: backscattering cross section
 :581: backtochest acceleration
 :582: backup
@@ -607,19 +608,19 @@
 :608: bandelimination filter
 :609: band of position
 :610: bandpass filter
-:611: bands with ray structure 
+:611: bands with ray structure
 :612: bandwidth
 :613: bangbang control
 :614: bar
 :615: baralyme
 :616: Brny chair
 :617: bare core
-:618: barn 
+:618: barn
 :619: barocline
 :620: baroclinic
 :621: baroclinicity
 :622: baroclinity
-:623: barocliny 
+:623: barocliny
 :624: barometer
 :625: barometric altimeter
 :626: barometric pressure
@@ -630,7 +631,7 @@
 :631: barotropic disturbance
 :632: barotropic model
 :633: barotropic vorticity equation
-:634: barotropic wave 
+:634: barotropic wave
 :635: barotropy
 :636: barycenter
 :637: barycentric elements
@@ -641,9 +642,10 @@
 :642: base point
 :643: base pressure
 :644: basetiming sequencing
-:645: :646: basic thermal radiation
+:645: 
+:646: basic thermal radiation
 :647: baud
-:648: Baum scale 
+:648: Baum scale
 :649: BayardAlpert ionization gage
 :650: Bayer letter
 :651: Bayer name
@@ -665,10 +667,10 @@
 :667: bearing
 :668: bearing angle
 :669: beat
-:670: beatbeat Dovap 
+:670: beatbeat Dovap
 :671: beat frequency
 :672: beating
-:673: beavertail antenna 
+:673: beavertail antenna
 :674: bediasite
 :675: Beer law
 :676: behavior
@@ -681,9 +683,9 @@
 :683: Bessel fictitious year
 :684: beta decay
 :685: beta disintegration
-:686: beta factor IMG height17 
+:686: beta factor IMG height17
 :687: beta particles
-:688: beta ray IMG height17 
+:688: beta ray IMG height17
 :689: betatron
 :690: bias error
 :691: bidirectional transducer
@@ -738,7 +740,7 @@
 :740: blast deflector
 :741: blastoff
 :742: blast vane
-:743: Blaton formula 
+:743: Blaton formula
 :744: bleed
 :745: bleed off
 :746: blip
@@ -751,7 +753,7 @@
 :753: blowoff
 :754: bluesky scale
 :755: bluff body
-:756: bluntness 
+:756: bluntness
 :757: boattail
 :758: bobbing
 :759: body
@@ -762,13 +764,13 @@
 :764: Bohr magneton electronic Bohr magneton
 :765: Bohr radius
 :766: boilerplate model
-:767: boiling point 
+:767: boiling point
 :768: boiloff
 :769: bolide
 :770: bologram
 :771: bolometer
 :772: bolometric magnitude
-:773: Boltzmann constant 
+:773: Boltzmann constant
 :774: Boltzmann universal conversion factor
 :775: Bond albedo
 :776: bonding
@@ -782,7 +784,7 @@
 :784: booster vehicle
 :785: boostglide vehicle
 :786: boost pressure
-:787: Bootes 
+:787: Bootes
 :788: bootstrap
 :789: boresight camera
 :790: boresight error
@@ -795,7 +797,7 @@
 :797: boundaryvalue problem
 :798: Boussinesq approximation
 :799: bow wave
-:800: Boyle law 
+:800: Boyle law
 :801: BoyleMariotte law
 :802: brake parachute
 :803: braking ellipses
@@ -812,7 +814,7 @@
 :814: breakoff phenomenon
 :815: break point
 :816: breakpoint instruction
-:817: bremsstrahlung 
+:817: bremsstrahlung
 :818: bremsstrahlung effect
 :819: brennschluss
 :820: Brewster point
@@ -820,15 +822,15 @@
 :822: brightness level
 :823: brightness temperature
 :824: Brinell hardness number
-:825: British candle 
+:825: British candle
 :826: British thermal unit
 :827: broadside array
 :828: brush discharge
-:829: Bscan 
+:829: Bscan
 :830: Bscope
 :831: Bstation
 :832: Btrace
-:833: Btu 
+:833: Btu
 :834: buckling
 :835: buffer
 :836: buffer storage
@@ -843,8 +845,8 @@
 :845: burner
 :846: burnin
 :847: burning rate
-:848: burning rate constant 
-:849: burningrate exponent 
+:848: burning rate constant
+:849: burningrate exponent
 :850: burnout
 :851: burnout velocity
 :852: burnt velocity
@@ -855,7 +857,7 @@
 :857: Busch lemniscate
 :858: buzz
 :859: Cae Cael
-:860: Caelum 
+:860: Caelum
 :861: cage
 :862: caging
 :863: caisson disease
@@ -867,25 +869,25 @@
 :869: Callipic cycle
 :870: Callisto
 :871: call number
-:872: calorie 
+:872: calorie
 :873: calorimeter
 :874: Cam Caml
-:875: Camelopardus 
+:875: Camelopardus
 :876: Caml
 :877: canard
 :878: Canc
-:879: Cancer 
+:879: Cancer
 :880: candela
 :881: candle
-:882: Canes Venatici 
-:883: Canis Major 
-:884: Canis Minor 
+:882: Canes Venatici
+:883: Canis Major
+:884: Canis Minor
 :885: canonical time unit
 :886: Cap Capr
 :887: capability
 :888: capacity
 :889: Capr
-:890: Capricornus 
+:890: Capricornus
 :891: capsule
 :892: captive test
 :893: capture
@@ -901,32 +903,32 @@
 :903: card reader
 :904: Cari
 :905: Carnot cycle
-:906: Carnot efficiency 
+:906: Carnot efficiency
 :907: Carnot engine
 :908: carrier
 :909: carrier frequency
-:910: IcIarrier IoIperated IdIevice 
+:910: IcIarrier IoIperated IdIevice
 :911: carrier rocket
-:912: carrier wave 
+:912: carrier wave
 :913: carry time
 :914: Cartesian coordinates
 :915: Cas Cass
 :916: cascaded
 :917: cascade shower
 :918: Cass
-:919: Cassegrain 
+:919: Cassegrain
 :920: Cassegrainian telescope
 :921: Cassegrain telescope
-:922: Cassiopeia 
+:922: Cassiopeia
 :923: catalogue
 :924: catalogue number
 :925: catapult
 :926: catheter
 :927: cathode
-:928: cathoderay indicator 
+:928: cathoderay indicator
 :929: cathoderay oscillograph
 :930: cathoderay oscilloscope
-:931: cathoderay tube 
+:931: cathoderay tube
 :932: cathode rays
 :933: cathoderay screen
 :934: catoptric light
@@ -941,7 +943,7 @@
 :943: celestial body
 :944: celestial coordinates
 :945: celestial equator
-:946: celestial equator system of coordinates 
+:946: celestial equator system of coordinates
 :947: celestial guidance
 :948: celestial horizon
 :949: celestialinertial guidance
@@ -956,19 +958,19 @@
 :958: celestial sphere
 :959: celestial triangle
 :960: cell
-:961: Celsius temperature scale 
+:961: Celsius temperature scale
 :962: Cen Cent
 :963: cent
-:964: Centaurus 
+:964: Centaurus
 :965: center frequency
 :966: center of mass
 :967: center of thrust
-:968: centi 
-:969: centigrade temperature scale 
-:970: centimeter 
-:971: centimetergramsecond system 
+:968: centi
+:969: centigrade temperature scale
+:970: centimeter
+:971: centimetergramsecond system
 :972: centimetric waves
-:973: centipoise 
+:973: centipoise
 :974: central control
 :975: central force
 :976: central force field
@@ -978,9 +980,9 @@
 :980: centrifugal force
 :981: centrifuge
 :982: centripetal acceleration
-:983: CEP 
+:983: CEP
 :984: Cep Ceph
-:985: Cepheus 
+:985: Cepheus
 :986: caramel
 :987: ceramic
 :988: Cerenkov radiation
@@ -988,8 +990,8 @@
 :990: Cet Ceti
 :991: cetane number
 :992: Ceti
-:993: Cetus 
-:994: Cfigure 
+:993: Cetus
+:994: Cfigure
 :995: CGS system
 :996: Cha Cham
 :997: chad
@@ -997,9 +999,9 @@
 :999: chaff
 :1000: chain radar beacon
 :1001: chain reaction
-:1002: challenger 
+:1002: challenger
 :1003: Cham
-:1004: Chamaeleon 
+:1004: Chamaeleon
 :1005: chamber
 :1006: chamber pressure
 :1007: chamber volume
@@ -1011,10 +1013,10 @@
 :1013: characteristic
 :1014: characteristic chamber length
 :1015: characteristic equation
-:1016: characteristic exhaust velocity 
+:1016: characteristic exhaust velocity
 :1017: characteristic Larmor radius
 :1018: characteristic length
-:1019: characteristic mode 
+:1019: characteristic mode
 :1020: characteristics
 :1021: characteristic value
 :1022: characteristicvalue problem
@@ -1057,17 +1059,17 @@
 :1059: chronometer time
 :1060: chronometric data
 :1061: chronotron
-:1062: chuffing 
+:1062: chuffing
 :1063: chugging
 :1064: Cindex
 :1065: cinetheodolite
 :1066: Cir Circ
 :1067: circadian rhythm
-:1068: Circinus 
-:1069: circle of declination 
+:1068: Circinus
+:1069: circle of declination
 :1070: circle of equal altitude
 :1071: circle of equal declination
-:1072: circle of equal probability 
+:1072: circle of equal probability
 :1073: circle of latitude
 :1074: circle of longitude
 :1075: circle of probable error
@@ -1075,10 +1077,10 @@
 :1077: circuit
 :1078: circuit element
 :1079: circular area
-:1080: circular cylindrical coordinates 
-:1081: circular dispersion 
+:1080: circular cylindrical coordinates
+:1081: circular dispersion
 :1082: circular error probable
-:1083: circular frequency 
+:1083: circular frequency
 :1084: circular inch
 :1085: circularly polarized sound wave
 :1086: circularly polarized wave
@@ -1087,7 +1089,7 @@
 :1089: circular scanning
 :1090: circular velocity
 :1091: circulating memory
-:1092: circulating register 
+:1092: circulating register
 :1093: circulation
 :1094: circulation integral
 :1095: circumlunar
@@ -1095,17 +1097,17 @@
 :1097: civil day
 :1098: civil time
 :1099: civil twilight
-:1100: civil year 
+:1100: civil year
 :1101: clad
 :1102: cladding
 :1103: clamping circuit
 :1104: ClapeyronClausius equation
-:1105: Clapeyron equation 
-:1106: ClausiusClapeyron equation 
+:1105: Clapeyron equation
+:1106: ClausiusClapeyron equation
 :1107: cleanup
 :1108: clear
 :1109: climatology
-:1110: clipper 
+:1110: clipper
 :1111: clipping circuit
 :1112: clo
 :1113: clock frequency
@@ -1131,22 +1133,22 @@
 :1133: CMi C Min
 :1134: Cnc Canc
 :1135: co
-:1136: coaltitude 
+:1136: coaltitude
 :1137: coast
 :1138: coasting flight
 :1139: coated optics
 :1140: coaxial cable
-:1141: codan 
+:1141: codan
 :1142: code
 :1143: codeclination
 :1144: coded decimal digit
 :1145: coding
-:1146: coefficient 
-:1147: coefficient of barotropy 
+:1146: coefficient
+:1147: coefficient of barotropy
 :1148: coefficient of compressibility
-:1149: coefficient of diffusion 
-:1150: coefficient of heat conduction 
-:1151: coefficient of molecular viscosity 
+:1149: coefficient of diffusion
+:1150: coefficient of heat conduction
+:1151: coefficient of molecular viscosity
 :1152: coefficient of mutual diffusion
 :1153: coefficient of tension
 :1154: coefficient of thermal conduction
@@ -1157,11 +1159,11 @@
 :1159: coherent
 :1160: coherent carrier
 :1161: coherent echo
-:1162: coherent oscillator 
+:1162: coherent oscillator
 :1163: coherent radar
 :1164: coherent reference
 :1165: coherent transponder
-:1166: Coho 
+:1166: Coho
 :1167: coincidence circuit
 :1168: coincidence counter
 :1169: coincidentcurrent magnetic core
@@ -1197,12 +1199,12 @@
 :1199: color index
 :1200: color sensitive
 :1201: color temperature
-:1202: Columba 
+:1202: Columba
 :1203: column
 :1204: Com Coma
 :1205: Coma
 :1206: coma
-:1207: Coma Berenices 
+:1207: Coma Berenices
 :1208: combination coefficient
 :1209: combined error
 :1210: combustion chamber
@@ -1211,7 +1213,7 @@
 :1213: combustion instability
 :1214: combustion wave
 :1215: combustor
-:1216: comes 
+:1216: comes
 :1217: comet
 :1218: command
 :1219: command control
@@ -1240,7 +1242,7 @@
 :1242: component
 :1243: composite materials
 :1244: composite propellant
-:1245: compound centripetal acceleration 
+:1245: compound centripetal acceleration
 :1246: compressed air illness
 :1247: compressibility
 :1248: compressibility burble
@@ -1251,8 +1253,8 @@
 :1253: compressor blade
 :1254: Compton effect
 :1255: Compton electron
-:1256: Compton recoil effect 
-:1257: Compton recoil electron 
+:1256: Compton recoil effect
+:1257: Compton recoil electron
 :1258: Compton wavelength
 :1259: computer
 :1260: computing efficiency
@@ -1267,7 +1269,7 @@
 :1269: conductance
 :1270: conduction
 :1271: conduction band
-:1272: conductive equilibrium 
+:1272: conductive equilibrium
 :1273: conductivity
 :1274: conductor
 :1275: cone
@@ -1290,7 +1292,7 @@
 :1292: console
 :1293: constantlevel balloon
 :1294: constant of aberration
-:1295: constant of gravitation 
+:1295: constant of gravitation
 :1296: constant of nutation
 :1297: constantpressure balloon
 :1298: constellation
@@ -1302,13 +1304,13 @@
 :1304: continuous spectrum
 :1305: continuous variable
 :1306: continuouswave radar
-:1307: continuous waves 
+:1307: continuous waves
 :1308: continuum
 :1309: continuum flow
-:1310: continuum radiation 
-:1311: contrail 
+:1310: continuum radiation
+:1311: contrail
 :1312: contrast
-:1313: contrast threshold 
+:1313: contrast threshold
 :1314: contravane
 :1315: control
 :1316: control feel
@@ -1319,13 +1321,13 @@
 :1321: control unit
 :1322: control vane
 :1323: convection
-:1324: convective atmosphere 
+:1324: convective atmosphere
 :1325: convergence
 :1326: conversion device
 :1327: convert
 :1328: converter
 :1329: convertiplane
-:1330: coolant 
+:1330: coolant
 :1331: cooledtube pyrometer
 :1332: cooler
 :1333: cooling power
@@ -1345,11 +1347,11 @@
 :1347: coriolis parameter
 :1348: corner reflector
 :1349: corona
-:1350: Corona Australis 
-:1351: Corona Borealis 
+:1350: Corona Australis
+:1351: Corona Borealis
 :1352: corona discharge
 :1353: coronagraph
-:1354: corposant 
+:1354: corposant
 :1355: corpuscular
 :1356: corpuscular cosmic rays
 :1357: corpuscular theory of light
@@ -1357,37 +1359,37 @@
 :1359: correlation
 :1360: correlation coefficient
 :1361: correlation detection
-:1362: correlation tracking and ranging 
-:1363: correlation tracking and triangulation 
+:1362: correlation tracking and ranging
+:1363: correlation tracking and triangulation
 :1364: correlation tracking system
 :1365: corrosion
 :1366: Corv
-:1367: Corvus 
+:1367: Corvus
 :1368: cosine law of illumination
 :1369: cosmic
 :1370: cosmic dust
 :1371: cosmic noise
-:1372: cosmic radiation 
+:1372: cosmic radiation
 :1373: cosmic radio waves
 :1374: cosmicray burst
 :1375: cosmicray knee
 :1376: cosmic rays
 :1377: cosmonaut
-:1378: COSPAR 
-:1379: coulomb 
-:1380: Cotar 
-:1381: Cotat 
+:1378: COSPAR
+:1379: coulomb
+:1380: Cotar
+:1381: Cotat
 :1382: Couette flow
 :1383: Coulomb collision
 :1384: Coulomb damping
 :1385: count
 :1386: countdown
 :1387: counter
-:1388: counterclockwise polarized wave 
-:1389: counterglow 
+:1388: counterclockwise polarized wave
+:1389: counterglow
 :1390: counterpressure
 :1391: counterradiation
-:1392: countervane 
+:1392: countervane
 :1393: coupled modes
 :1394: coupling
 :1395: course
@@ -1397,7 +1399,7 @@
 :1399: cracking
 :1400: craft
 :1401: Crat
-:1402: Crater 
+:1402: Crater
 :1403: crater
 :1404: craterlets
 :1405: CrB Cor B
@@ -1409,7 +1411,7 @@
 :1411: critical damping
 :1412: critical frequency
 :1413: criticality factor
-:1414: critical level 
+:1414: critical level
 :1415: critical level of escape
 :1416: critical Mach number
 :1417: critical mass
@@ -1434,8 +1436,8 @@
 :1436: crosswind
 :1437: Crt Crat
 :1438: Cruc
-:1439: Crux 
-:1440: CRT 
+:1439: Crux
+:1440: CRT
 :1441: Crv Corv
 :1442: cryogenic materials
 :1443: cryogenic propellant
@@ -1447,10 +1449,10 @@
 :1449: cryotron
 :1450: crystal lattice
 :1451: crystal transducer
-:1452: Cscan 
-:1453: Cscope 
-:1454: culmination 
-:1455: curie 
+:1452: Cscan
+:1453: Cscope
+:1454: culmination
+:1455: curie
 :1456: Curie point
 :1457: Curie temperature
 :1458: curl
@@ -1462,7 +1464,7 @@
 :1464: curvilinear coordinates
 :1465: cutoff or cutoff
 :1466: Cvn C Ven
-:1467: CW radar 
+:1467: CW radar
 :1468: CW system
 :1469: cyanometerA
 :1470: cyanometry
@@ -1478,7 +1480,7 @@
 :1480: cyclotron radiation
 :1481: cyclotron resonance
 :1482: Cyg Cygn
-:1483: Cygnus 
+:1483: Cygnus
 :1484: cylindrical coordinates
 :1485: cylindrical polar coordinates
 :1486: cylindrical wave
@@ -1507,19 +1509,19 @@
 :1509: datum line
 :1510: datum plane
 :1511: datum point
-:1512: daughter daughter element 
+:1512: daughter daughter element
 :1513: day
 :1514: daylight saving time
 :1515: daytime visual range
 :1516: Ddisplay
 :1517: dead band
-:1518: dead reckoning 
+:1518: dead reckoning
 :1519: dead spot
 :1520: dead time
 :1521: De Broglie wavelength
 :1522: debug
 :1523: Debye length
-:1524: Debye shielding distance 
+:1524: Debye shielding distance
 :1525: deca
 :1526: decade
 :1527: decade counter
@@ -1534,8 +1536,8 @@
 :1536: deceleration
 :1537: deceleration parachute
 :1538: December solstice
-:1539: deci 
-:1540: decibel 
+:1539: deci
+:1540: decibel
 :1541: decibel per second
 :1542: decimal coefficient of absorption
 :1543: decimal digit
@@ -1567,7 +1569,7 @@
 :1569: degradation
 :1570: degree of freedom
 :1571: Deimos
-:1572: deka 
+:1572: deka
 :1573: Del Dlph
 :1574: de Laval nozzle
 :1575: delay
@@ -1577,9 +1579,9 @@
 :1579: delayer
 :1580: delay line
 :1581: delayline storage
-:1582: Dellinger effect 
-:1583: deloperator 
-:1584: Delphinus 
+:1582: Dellinger effect
+:1583: deloperator
+:1584: Delphinus
 :1585: delta ray
 :1586: delta wing
 :1587: deluge collection pond
@@ -1591,7 +1593,7 @@
 :1593: densitometer
 :1594: density function
 :1595: density specific impulse
-:1596: departure 
+:1596: departure
 :1597: dependent variable
 :1598: depletion layer
 :1599: deploy
@@ -1604,19 +1606,19 @@
 :1606: desorption
 :1607: destruct
 :1608: destruct line
-:1609: detached shock 
+:1609: detached shock
 :1610: detached shock wave
 :1611: detachment
 :1612: detection
 :1613: detector
 :1614: detonation
 :1615: detonation wave
-:1616: deuterium 
+:1616: deuterium
 :1617: deuteron
 :1618: deviation
 :1619: dew point
 :1620: dewpoint temperature
-:1621: DF 
+:1621: DF
 :1622: diabatic process
 :1623: diamonds
 :1624: diaphragm manometer
@@ -1624,7 +1626,7 @@
 :1626: dichotomy
 :1627: dielectric
 :1628: dielectric absorption
-:1629: dielectric constant 
+:1629: dielectric constant
 :1630: dielectric gradient
 :1631: dielectric strength
 :1632: difference of latitude
@@ -1660,37 +1662,37 @@
 :1662: digitize
 :1663: digitizer
 :1664: dihedral angle
-:1665: Dindicator 
+:1665: Dindicator
 :1666: Dione
 :1667: dioptric light
 :1668: dip
-:1669: dip angle 
-:1670: dip equator 
+:1669: dip angle
+:1670: dip equator
 :1671: diplexer
 :1672: diplex transmission
 :1673: dipole
 :1674: dipole antenna
-:1675: dig pole 
+:1675: dig pole
 :1676: direct air cycle
 :1677: directcurrent discharge
-:1678: direct cycle 
+:1678: direct cycle
 :1679: directional antenna
-:1680: directional array 
+:1680: directional array
 :1681: directional emittance
 :1682: directional gyro
 :1683: directional properties
 :1684: directional stability
 :1685: direction angle
 :1686: direction cosine
-:1687: direction finder 
+:1687: direction finder
 :1688: direction of relative movement
 :1689: directivity
 :1690: direct motion
-:1691: direct product 
+:1691: direct product
 :1692: directrix
 :1693: direct solar radiation
 :1694: direct wave
-:1695: discharge correction factor 
+:1695: discharge correction factor
 :1696: discharge tube
 :1697: discone antenna
 :1698: discontinuity
@@ -1702,14 +1704,14 @@
 :1704: dish
 :1705: dislocation
 :1706: dispersion
-:1707: dispersion equation 
+:1707: dispersion equation
 :1708: dispersive medium
 :1709: displacement
 :1710: displacement manometer
 :1711: display
 :1712: dissociation
 :1713: distance marker
-:1714: distance measuring equipment 
+:1714: distance measuring equipment
 :1715: distortedangle fabric
 :1716: distortion
 :1717: distribution function
@@ -1720,7 +1722,7 @@
 :1722: divergence
 :1723: divergence theorem
 :1724: Dlayer
-:1725: DME 
+:1725: DME
 :1726: Dobson spectrophotometer
 :1727: docking
 :1728: doghouse
@@ -1733,16 +1735,16 @@
 :1735: DopplerFizeau effect
 :1736: Doppler navigation
 :1737: Doppler radar
-:1738: Doppler ranging 
+:1738: Doppler ranging
 :1739: Doppler shift
 :1740: Doppler system
-:1741: Doppler velocity and position abbr A 
+:1741: Doppler velocity and position abbr A
 :1742: Dor Dora
-:1743: Dorado 
-:1744: Doran 
+:1743: Dorado
+:1744: Doran
 :1745: dorsal
 :1746: dosimeter
-:1747: dot product 
+:1747: dot product
 :1748: double amplitude
 :1749: doublebase propellant
 :1750: doubledabble
@@ -1753,18 +1755,18 @@
 :1755: double sheath
 :1756: double stars
 :1757: doublet
-:1758: Dovap 
+:1758: Dovap
 :1759: Dovap elsse
 :1760: down range
 :1761: downtime
-:1762: DR 
+:1762: DR
 :1763: Dra Drac
-:1764: Draco 
+:1764: Draco
 :1765: dracontic month
-:1766: drag 
+:1766: drag
 :1767: drag coefficient
 :1768: drag parachute
-:1769: draperies 
+:1769: draperies
 :1770: Dregion
 :1771: drift
 :1772: drift mobility
@@ -1782,16 +1784,16 @@
 :1784: dry emplacement
 :1785: dry friction damping
 :1786: dry weight
-:1787: Dscan 
-:1788: Dscope 
-:1789: DSIF 
+:1787: Dscan
+:1788: Dscope
+:1789: DSIF
 :1790: dual modulation
 :1791: dual thrust
 :1792: dualthrust motor
 :1793: duct
 :1794: ducted fan
 :1795: ductedfan engine
-:1796: ducted rocket 
+:1796: ducted rocket
 :1797: ducting
 :1798: duct propulsion
 :1799: dummy
@@ -1812,8 +1814,8 @@
 :1814: dynamic meter
 :1815: dynamic model
 :1816: dynamic parallax
-:1817: dynamic pressure 
-:1818: dynamic response 
+:1817: dynamic pressure
+:1818: dynamic response
 :1819: dynamic scale
 :1820: dynamic similarity
 :1821: dynamic stability
@@ -1833,7 +1835,7 @@
 :1835: earthlight
 :1836: earth point
 :1837: earth radiation
-:1838: earthrate unit 
+:1838: earthrate unit
 :1839: earth satellite
 :1840: earth shine
 :1841: earths rate correction
@@ -1866,14 +1868,14 @@
 :1868: edge effect
 :1869: Edisplay
 :1870: edit
-:1871: EDP 
+:1871: EDP
 :1872: education
 :1873: effective aperture
 :1874: effective area
 :1875: effective atmosphere
 :1876: effective earth radius
-:1877: effective exhaust velocity 
-:1878: effective multiplication factor 
+:1877: effective exhaust velocity
+:1878: effective multiplication factor
 :1879: effective neutron cycle time
 :1880: effective propagation velocity
 :1881: effective radiation
@@ -1885,9 +1887,9 @@
 :1887: effective wavelength
 :1888: effector
 :1889: efficiency
-:1890: egads 
+:1890: egads
 :1891: egads button
-:1892: EHF 
+:1892: EHF
 :1893: eigenmode
 :1894: eigenvalue
 :1895: eight ball
@@ -1914,8 +1916,8 @@
 :1916: electric intensity
 :1917: electric lines of force
 :1918: electric potential
-:1919: electric potential gradient 
-:1920: electric power level 
+:1919: electric potential gradient
+:1920: electric power level
 :1921: electric propulsion
 :1922: electroacoustic transducer
 :1923: electrochemical
@@ -1926,7 +1928,7 @@
 :1928: electrokinetic transducer
 :1929: electroluminescence
 :1930: electromagnetic
-:1931: electromagnetic energy 
+:1931: electromagnetic energy
 :1932: electromagnetic radiation
 :1933: electromagnetic rockets
 :1934: electromagnetic spectrum
@@ -1945,24 +1947,24 @@
 :1947: electronic
 :1948: electronic Bohr magneton
 :1949: electronic data processing
-:1950: electronic missile acquisition 
+:1950: electronic missile acquisition
 :1951: electronics
 :1952: electronic sky screen equipment
 :1953: electronic transducer
-:1954: electronic work function 
+:1954: electronic work function
 :1955: electron tube
-:1956: electronvolt 
+:1956: electronvolt
 :1957: electrostatic memory
-:1958: electrostatic rocket 
+:1958: electrostatic rocket
 :1959: electrostatic storage
 :1960: electrostaticstorage tube
 :1961: electrostriction
-:1962: electrothermal rocket 
+:1962: electrothermal rocket
 :1963: element
 :1964: elevated pole
 :1965: elevation
 :1966: elevation angle
-:1967: ELF 
+:1967: ELF
 :1968: ellipse
 :1969: ellipsoid
 :1970: ellipsoid of revolution
@@ -1970,24 +1972,24 @@
 :1972: elliptically polarized sound wave
 :1973: elliptical polarization
 :1974: elliptical system
-:1975: ellipticity 
+:1975: ellipticity
 :1976: ellipticity ratio
 :1977: elongation
-:1978: elsse 
-:1979: EMA 
+:1978: elsse
+:1979: EMA
 :1980: embolism
-:1981: emissance 
+:1981: emissance
 :1982: emission
 :1983: emission line
 :1984: emission spectrum
 :1985: emissive power
-:1986: emissivity 
-:1987: emittance 
+:1986: emissivity
+:1987: emittance
 :1988: emulsion
 :1989: emulsion plate
 :1990: enamel
 :1991: Enceladus
-:1992: encoder 
+:1992: encoder
 :1993: endfire array
 :1994: energy
 :1995: energy conversion efficiency
@@ -1996,10 +1998,10 @@
 :1998: energy equation
 :1999: energy level
 :2000: energy management
-:2001: energy spectrum 
+:2001: energy spectrum
 :2002: engine
 :2003: engine control
-:2004: engineexhaust trail 
+:2004: engineexhaust trail
 :2005: engine mount
 :2006: engine spray
 :2007: English candle
@@ -2013,10 +2015,10 @@
 :2015: environmental lapse rate
 :2016: ESUB1SUBlayer
 :2017: eosinophils
-:2018: ephemeris 
+:2018: ephemeris
 :2019: ephemeris day
-:2020: ephemeris second 
-:2021: ephemeris time 
+:2020: ephemeris second
+:2021: ephemeris time
 :2022: epoch
 :2023: Eppley pyrheliometer
 :2024: Equ Equl
@@ -2035,7 +2037,7 @@
 :2037: equilibrium glide
 :2038: equilibrium spheroid
 :2039: equilibrium vapor pressure
-:2040: equinoctial 
+:2040: equinoctial
 :2041: equinoctial colure
 :2042: equinoctial day
 :2043: equinoctial point
@@ -2051,17 +2053,17 @@
 :2053: equivalent temperature
 :2054: equivalent width
 :2055: Equl
-:2056: Equuleus 
+:2056: Equuleus
 :2057: eradiation
 :2058: erase
 :2059: erector
 :2060: Eregion
-:2061: erf 
+:2061: erf
 :2062: erg
 :2063: ergometer
 :2064: Eri
 :2065: Erid
-:2066: Eridanus 
+:2066: Eridanus
 :2067: erosion gage
 :2068: erratic error
 :2069: error
@@ -2077,8 +2079,8 @@
 :2079: escape speed
 :2080: escape tower
 :2081: escape velocity
-:2082: Escope 
-:2083: ET 
+:2082: Escope
+:2083: ET
 :2084: etiology
 :2085: ESUB2SUBlayer
 :2086: Eulerian angles
@@ -2114,28 +2116,28 @@
 :2116: explosive decompression
 :2117: exponential atmosphere
 :2118: exposure suit
-:2119: extended range Dovap 
-:2120: extensive air shower 
+:2119: extended range Dovap
+:2120: extensive air shower
 :2121: exterior ballistics
 :2122: external storage
 :2123: extinction
 :2124: extinction coefficient
 :2125: extinction cross section
-:2126: Extradop 
+:2126: Extradop
 :2127: extragalactic
 :2128: extraordinary ray
 :2129: extraterrestrial life
 :2130: extraterrestrial radiation
-:2131: extremely high frequency 
-:2132: extremely low frequency 
+:2131: extremely high frequency
+:2132: extremely low frequency
 :2133: extreme value
-:2134: eyeballs in eyeballs out eyeballs down eyeballs up eyeballs 
+:2134: eyeballs in eyeballs out eyeballs down eyeballs up eyeballs
 :2135: facsimile
 :2136: faculae
 :2137: fade
 :2138: fadeout
 :2139: fading
-:2140: Fahrenheit temperature scale 
+:2140: Fahrenheit temperature scale
 :2141: fail safe system
 :2142: fall
 :2143: fallaway section
@@ -2143,8 +2145,8 @@
 :2145: fan
 :2146: fannedbeam antenna
 :2147: fanning beam
-:2148: farad 
-:2149: Faraday constant 
+:2148: farad
+:2149: Faraday constant
 :2150: fast ion
 :2151: fast neutron
 :2152: fast reactor
@@ -2158,10 +2160,10 @@
 :2160: feedback control system
 :2161: feedback path
 :2162: feel
-:2163: femto 
+:2163: femto
 :2164: fence
 :2165: Fermat principle
-:2166: fermi 
+:2166: fermi
 :2167: fictitious
 :2168: fictitious year
 :2169: fidelity
@@ -2169,7 +2171,7 @@
 :2171: field
 :2172: field brightness
 :2173: field intensity
-:2174: field luminance 
+:2174: field luminance
 :2175: field strength
 :2176: filamentary structure
 :2177: film cooling
@@ -2177,7 +2179,7 @@
 :2179: filtering
 :2180: fin
 :2181: final mass
-:2182: Findicator 
+:2182: Findicator
 :2183: fine data channel
 :2184: fine pressure
 :2185: fineness ratio
@@ -2189,7 +2191,7 @@
 :2191: first law of thermodynamics
 :2192: first point of Aries
 :2193: first point of Cancer
-:2194: first point of Capricornus 
+:2194: first point of Capricornus
 :2195: first point of Libra
 :2196: first quarter
 :2197: fishbone antenna
@@ -2241,27 +2243,27 @@
 :2243: flyby
 :2244: flying spot
 :2245: flying test bed
-:2246: FM 
-:2247: FMAM 
-:2248: FMFM 
-:2249: FMPM 
+:2246: FM
+:2247: FMAM
+:2248: FMFM
+:2249: FMPM
 :2250: foamed plastics
 :2251: focal length
 :2252: focal plane
 :2253: focal point
-:2254: focus 
+:2254: focus
 :2255: folded dipole antenna
 :2256: folding fin
 :2257: followon
-:2258: foot 
-:2259: footcandle 
-:2260: footlambert 
+:2258: foot
+:2259: footcandle
+:2260: footlambert
 :2261: foottohead acceleration
 :2262: footward acceleration
 :2263: For Forn
 :2264: forbidden line
 :2265: Forbush decrease
-:2266: force 
+:2266: force
 :2267: force balance transducer
 :2268: forced oscillation
 :2269: forced vibration
@@ -2269,7 +2271,7 @@
 :2271: force function
 :2272: formability
 :2273: Forn
-:2274: Fornax 
+:2274: Fornax
 :2275: forward acceleration
 :2276: forward scatter
 :2277: Fourier analysis
@@ -2284,7 +2286,7 @@
 :2286: Fraunhofer lines
 :2287: Fraunhofer region
 :2288: Fraunhofer spectrum
-:2289: free air 
+:2289: free air
 :2290: free atmosphere
 :2291: free electron
 :2292: free fall
@@ -2309,7 +2311,7 @@
 :2311: free wave
 :2312: freezeout method
 :2313: Fregion
-:2314: frequency 
+:2314: frequency
 :2315: frequency assignment
 :2316: frequency band
 :2317: frequency bias
@@ -2317,39 +2319,39 @@
 :2319: frequency departure
 :2320: frequency deviation
 :2321: frequency equation
-:2322: frequency modulation 
+:2322: frequency modulation
 :2323: frequency offset transponder
 :2324: frequency response
-:2325: frequencyshift keying 
+:2325: frequencyshift keying
 :2326: frequency swing
 :2327: frequency tolerance
 :2328: Fresnel region
 :2329: Fresnel zone
-:2330: friction layer 
+:2330: friction layer
 :2331: fringe region
 :2332: frit
 :2333: frost point
-:2334: Froude number 
+:2334: Froude number
 :2335: frozen flow
 :2336: frozenin field
 :2337: frustration threshold
-:2338: Fscan 
+:2338: Fscan
 :2339: Fscope
-:2340: FSK 
+:2340: FSK
 :2341: FSUB2SUBlayer
 :2342: fuel
 :2343: fuel cell
 :2344: fuel consumption
 :2345: fuel cooled
 :2346: fuel shutoff
-:2347: fugacity 
+:2347: fugacity
 :2348: full moon
 :2349: full pressure suit
 :2350: fully ionized plasma
 :2351: function
 :2352: functional reserves
 :2353: function table
-:2354: fundamental circle 
+:2354: fundamental circle
 :2355: fundamental frequency
 :2356: fundamental mode of vibration
 :2357: fundamental star places
@@ -2370,7 +2372,7 @@
 :2372: galactic system of coordinates
 :2373: galaxy
 :2374: gamma photon
-:2375: gamma radiation 
+:2375: gamma radiation
 :2376: gamma ray
 :2377: gantry
 :2378: gantry crane
@@ -2379,7 +2381,7 @@
 :2381: garbage
 :2382: gas
 :2383: gas cap
-:2384: gas constant 
+:2384: gas constant
 :2385: gas constant per molecule
 :2386: gaseous discharge
 :2387: gaseous electric discharge
@@ -2391,22 +2393,22 @@
 :2393: gate
 :2394: gating
 :2395: gauss
-:2396: Gaussian constant 
+:2396: Gaussian constant
 :2397: Gaussian distribution
-:2398: Gaussian gravitation constant 
+:2398: Gaussian gravitation constant
 :2399: Gaussian noise
-:2400: Gauss theorem 
-:2401: GayLussac law 
-:2402: GCA 
-:2403: GCI 
+:2400: Gauss theorem
+:2401: GayLussac law
+:2402: GCA
+:2403: GCI
 :2404: Gdisplay
 :2405: gee
 :2406: gegenschein
 :2407: Geiger counter
 :2408: GeigerMuller counter
 :2409: Gem Gemi
-:2410: Gemini 
-:2411: general circulation 
+:2410: Gemini
+:2411: general circulation
 :2412: generalized coordinates
 :2413: generalized transmission function
 :2414: general perturbations
@@ -2449,7 +2451,7 @@
 :2451: geomagnetic latitude
 :2452: geomagnetic meridian
 :2453: geomagnetic pole
-:2454: geomagnetic storm 
+:2454: geomagnetic storm
 :2455: geomagnetism
 :2456: geometrical horizon
 :2457: geometric chord
@@ -2461,19 +2463,19 @@
 :2463: geopotential height
 :2464: geopotential meter
 :2465: geopotential surface
-:2466: georef 
+:2466: georef
 :2467: geosphere
 :2468: geostrophic wind
 :2469: geostrophic wind level
 :2470: get
 :2471: getter
 :2472: Gforce
-:2473: GHA 
+:2473: GHA
 :2474: giant planets
 :2475: gibbous
 :2476: Gibbs free energy  Gibbs function
 :2477: Gibbs function
-:2478: giga 
+:2478: giga
 :2479: gimbal
 :2480: gimbaled motor
 :2481: gimbal freedom
@@ -2495,7 +2497,7 @@
 :2497: globe lightning
 :2498: glow discharge
 :2499: Gmeter
-:2500: GMT 
+:2500: GMT
 :2501: gnotobiotics
 :2502: goniometer
 :2503: gox
@@ -2508,18 +2510,18 @@
 :2510: grammolecule
 :2511: granules
 :2512: graph
-:2513: Grashof number symbol NSUBGrSUB 
+:2513: Grashof number symbol NSUBGrSUB
 :2514: grass
 :2515: graticule
 :2516: graviceptor
 :2517: gravireceptors
 :2518: gravitation
 :2519: gravitational
-:2520: gravitational constant 
+:2520: gravitational constant
 :2521: gravitational potential
 :2522: gravitational red shift
 :2523: gravitational tide
-:2524: gravitational wave 
+:2524: gravitational wave
 :2525: gravitation constant
 :2526: graviton
 :2527: gravity
@@ -2535,12 +2537,12 @@
 :2537: green flash
 :2538: greenhouse effect
 :2539: Green theorem
-:2540: Greenwich apparent time 
-:2541: Greenwich civil time 
-:2542: Greenwich hour angle 
-:2543: Greenwich mean time 
+:2540: Greenwich apparent time
+:2541: Greenwich civil time
+:2542: Greenwich hour angle
+:2543: Greenwich mean time
 :2544: Greenwich meridian
-:2545: Greenwich sidereal time 
+:2545: Greenwich sidereal time
 :2546: Gregion
 :2547: Gregorian calendar
 :2548: grey body
@@ -2550,23 +2552,23 @@
 :2552: gross thrust
 :2553: gross weight
 :2554: ground
-:2555: ground clutter 
-:2556: groundcontrolled approach 
-:2557: groundcontrolled intercept 
+:2555: ground clutter
+:2556: groundcontrolled approach
+:2557: groundcontrolled intercept
 :2558: groundeffect machine
 :2559: ground environment
 :2560: groundhandling equipment
-:2561: ground layer 
+:2561: ground layer
 :2562: ground return
 :2563: ground start
-:2564: ground support equipment 
+:2564: ground support equipment
 :2565: ground wave
 :2566: group velocity
 :2567: Gru Grus
-:2568: Grus 
-:2569: Gscan 
-:2570: Gscope 
-:2571: GSE 
+:2568: Grus
+:2569: Gscan
+:2570: Gscope
+:2571: GSE
 :2572: gsuit or Gsuit
 :2573: gtolerance
 :2574: guidance
@@ -2580,12 +2582,12 @@
 :2582: gyroscope
 :2583: gyroscopic inertia
 :2584: Iapetus
-:2585: ICAO 
+:2585: ICAO
 :2586: ICAO Standard Atmosphere
 :2587: ice frost
 :2588: ice point
-:2589: ICW 
-:2590: ISCU 
+:2589: ICW
+:2590: ISCU
 :2591: ideal exhaust velocity
 :2592: ideal fluid
 :2593: ideal gas
@@ -2595,19 +2597,19 @@
 :2597: ideal transducer
 :2598: ideal velocity
 :2599: Idisplay
-:2600: IGC1959 
+:2600: IGC1959
 :2601: igneous meteor
 :2602: igniter
 :2603: ignition delay
 :2604: ignition lag
 :2605: ignore
-:2606: Igor 
-:2607: IGY 
-:2608: Iindicator 
+:2606: Igor
+:2607: IGY
+:2608: Iindicator
 :2609: illuminance
 :2610: illumination
-:2611: illumonometer 
-:2612: ILS 
+:2611: illumonometer
+:2612: ILS
 :2613: impact
 :2614: impact acceleration
 :2615: impact area
@@ -2629,7 +2631,7 @@
 :2631: impulse turbine
 :2632: inactive leg
 :2633: incandescence
-:2634: inch 
+:2634: inch
 :2635: incidence
 :2636: incident ray
 :2637: inclination
@@ -2640,13 +2642,13 @@
 :2642: Ind Indi
 :2643: independent variable
 :2644: index of absorption
-:2645: index of refraction 
+:2645: index of refraction
 :2646: Indi
 :2647: indicator
 :2648: indirect wave
 :2649: indochinite
 :2650: induced magnetism
-:2651: Indus 
+:2651: Indus
 :2652: inelastic collision
 :2653: inert atmosphere
 :2654: inert gas
@@ -2663,7 +2665,7 @@
 :2665: inferior conjunction
 :2666: inferior mirage
 :2667: inferior planets
-:2668: inferior transit 
+:2668: inferior transit
 :2669: infinity
 :2670: inflection
 :2671: inflection point
@@ -2672,8 +2674,8 @@
 :2674: information content
 :2675: information gate
 :2676: infrahuman
-:2677: infrared 
-:2678: infrared radiation 
+:2677: infrared
+:2678: infrared radiation
 :2679: infrasonic frequency
 :2680: infrasonic sound
 :2681: inherited error
@@ -2688,7 +2690,7 @@
 :2690: inlet pressure
 :2691: inner liner
 :2692: inner planets
-:2693: inner product 
+:2693: inner product
 :2694: in phase
 :2695: input
 :2696: input axis
@@ -2704,13 +2706,13 @@
 :2706: instruction code
 :2707: instrument
 :2708: instrumentation
-:2709: instrument landing system 
+:2709: instrument landing system
 :2710: intake pressure
 :2711: integer
 :2712: integral
 :2713: integrally stiffened
 :2714: integral tank
-:2715: integrated trajectory system 
+:2715: integrated trajectory system
 :2716: integrating accelerometer
 :2717: integrator
 :2718: intensity
@@ -2728,17 +2730,17 @@
 :2730: interferometer
 :2731: interferometric
 :2732: interior ballistics
-:2733: intermediate frequency 
+:2733: intermediate frequency
 :2734: intermediate ion
 :2735: intermediate orbit
 :2736: intermittent pressure breathing
 :2737: intermodulation
-:2738: internal ballistics 
+:2738: internal ballistics
 :2739: internal efficiency
 :2740: internal energy
 :2741: international candle
-:2742: International Geophysical Cooperation 1959 abbr 
-:2743: International Geophysical Year 
+:2742: International Geophysical Cooperation 1959 abbr
+:2743: International Geophysical Year
 :2744: International Gravity Formula
 :2745: international nautical mile
 :2746: International Polar Year
@@ -2748,12 +2750,12 @@
 :2750: International Year of the Quiet Sun
 :2751: interpleural
 :2752: interpreter
-:2753: interpreter code 
+:2753: interpreter code
 :2754: interrogation
 :2755: interrogator
 :2756: interrogatorresponsor
 :2757: intersection
-:2758: intersector 
+:2758: intersector
 :2759: interval of convergence
 :2760: intervalometer
 :2761: inverse
@@ -2762,17 +2764,17 @@
 :2764: inversion temperature
 :2765: inverter
 :2766: inviscid
-:2767: inviscid fluid 
+:2767: inviscid fluid
 :2768: Io
 :2769: ion
 :2770: ion column
-:2771: ion concentration 
+:2771: ion concentration
 :2772: ion counter
 :2773: ion density
 :2774: ion engine
 :2775: ion gage
 :2776: ionic conduction
-:2777: ionic mobility 
+:2777: ionic mobility
 :2778: ionization
 :2779: ionization by collision
 :2780: ionization chamber
@@ -2793,12 +2795,12 @@
 :2795: ionospheric wave
 :2796: ion pair
 :2797: ion rocket
-:2798: IQSY 
-:2799: IR 
+:2798: IQSY
+:2799: IR
 :2800: iraser
 :2801: irradiance
-:2802: Iscan 
-:2803: Iscope 
+:2802: Iscan
+:2803: Iscope
 :2804: isentrope
 :2805: isentropic
 :2806: isobar
@@ -2807,7 +2809,7 @@
 :2809: isochoric
 :2810: isoclinic line
 :2811: isogonic line
-:2812: isogram 
+:2812: isogram
 :2813: isolation
 :2814: isolator  vibration isolator
 :2815: isomer
@@ -2824,7 +2826,7 @@
 :2826: isotimic
 :2827: isotope
 :2828: isotropic
-:2829: isotropic antenna 
+:2829: isotropic antenna
 :2830: isotropic radiation
 :2831: isotropic radiator
 :2832: isotropic turbulence
@@ -2851,7 +2853,7 @@
 :2853: Jodrell Bank
 :2854: Johnson noise
 :2855: Joint Long Range Proving Ground
-:2856: joule 
+:2856: joule
 :2857: Joule constant
 :2858: Joule cycle
 :2859: JouleKelvin effect
@@ -2859,49 +2861,49 @@
 :2861: JouleThomson effect
 :2862: Jovian
 :2863: Jovian planet
-:2864: JP 
+:2864: JP
 :2865: JP4
-:2866: Jscan 
+:2866: Jscan
 :2867: Julian day
 :2868: Julian period
 :2869: jump
 :2870: jumper
 :2871: junction
 :2872: junction point
-:2873: June solstice 
+:2873: June solstice
 :2874: Jupiter
-:2875: Jupiter I 
-:2876: Jupiter II 
-:2877: Jupiter III 
+:2875: Jupiter I
+:2876: Jupiter II
+:2877: Jupiter III
 :2878: Jupiter IV
 :2879: Karman street
 :2880: Karman vortex street
 :2881: Kband
 :2882: Kcorona
 :2883: Kdisplay
-:2884: Kelvin scale 
-:2885: Kelvin temperature scale 
+:2884: Kelvin scale
+:2885: Kelvin temperature scale
 :2886: KennellyHeaviside layer
 :2887: Kepler equation
 :2888: Keplerian
 :2889: Kepler laws
 :2890: Kepler planetary laws
-:2891: kilo 
-:2892: kilocalorie 
-:2893: kilocycle 
-:2894: kilogram 
-:2895: kilogram calorie 
-:2896: kilomegacycle 
-:2897: kilometer 
+:2891: kilo
+:2892: kilocalorie
+:2893: kilocycle
+:2894: kilogram
+:2895: kilogram calorie
+:2896: kilomegacycle
+:2897: kilometer
 :2898: kilometric waves
 :2899: Kindicator
-:2900: Kindices 
+:2900: Kindices
 :2901: kinematic eddy viscosity
 :2902: kinematics
-:2903: kinematic viscosity 
-:2904: kinetic energy 
-:2905: kineticenergy equation 
-:2906: kinetic pressure 
+:2903: kinematic viscosity
+:2904: kinetic energy
+:2905: kineticenergy equation
+:2906: kinetic pressure
 :2907: kinetic theory
 :2908: kink instability
 :2909: Kirchhoff law
@@ -2911,9 +2913,10 @@
 :2913: Knudsen gage
 :2914: Knudsen number
 :2915: Knudsen rate of evaporation
-:2916: Kscan 
+:2916: Kscan
 :2917: Kscope
-:2918: HTML HEAD   META NAMEGENERATOR CONTENTAdobe PageMill 30 Win   TITLEDictionary of Technical Terms for Aerospace Use  LTITLE HEAD BODY BGCOLORffffff  PA HREFmenuhtml TARGETmainBack to Table of ContentsAP  H1LH1  PSource edition 1965 Please read the A HREFintrohtmlIntroductionA to find out about this dictionary and our plans for it Caution many entries have not been updated since the 1965 editionBR FONT COLORff0000Greek symbols may not appear correctly in some browsers For example a gamma may appear as ampgammaFONTP  DL   labyrinthine:2919: Mach
+:2918: HTML HEAD   META NAMEGENERATOR CONTENTAdobe PageMill 30 Win   TITLEDictionary of Technical Terms for Aerospace Use  LTITLE HEAD BODY BGCOLORffffff  PA HREFmenuhtml TARGETmainBack to Table of ContentsAP  H1LH1  PSource edition 1965 Please read the A HREFintrohtmlIntroductionA to find out about this dictionary and our plans for it Caution many entries have not been updated since the 1965 editionBR FONT COLORff0000Greek symbols may not appear correctly in some browsers For example a gamma may appear as ampgammaFONTP  DL   labyrinthine
+:2919: Mach
 :2920: Mach angle
 :2921: Mach cone
 :2922: Mach indicator
@@ -2934,10 +2937,10 @@
 :2937: magnetic bay
 :2938: magnetic binary core
 :2939: magnetic character figure
-:2940: magnetic core 
+:2940: magnetic core
 :2941: magnetic crotchet
 :2942: magnetic current sheath
-:2943: magnetic declination 
+:2943: magnetic declination
 :2944: magnetic deviation
 :2945: magnetic dip
 :2946: magnetic dipole moment
@@ -2950,11 +2953,11 @@
 :2953: magnetic equivalent amplitude indices
 :2954: magnetic field
 :2955: magnetic field intensity
-:2956: magnetic field strength 
+:2956: magnetic field strength
 :2957: magnetic giant pulsations
 :2958: magnetic inclinations
 :2959: magnetic induction
-:2960: magnetic intensity 
+:2960: magnetic intensity
 :2961: magnetic Kindices
 :2962: magnetic latitude
 :2963: magnetic lines of force
@@ -2967,7 +2970,7 @@
 :2970: magnetic north
 :2971: magnetic pole
 :2972: magnetic pressure
-:2973: magnetic quietday solar daily variation 
+:2973: magnetic quietday solar daily variation
 :2974: magnetic solar daily variation
 :2975: magnetic storage
 :2976: magnetic storm
@@ -3014,29 +3017,29 @@
 :3017: maser
 :3018: mass
 :3019: masscharge ratio
-:3020: massdensity 
+:3020: massdensity
 :3021: massenergy equivalence
 :3022: mass flow rate per unit area
 :3023: mass number
 :3024: mass ratio
 :3025: massvelocity ratio
 :3026: master station
-:3027: Mate 
+:3027: Mate
 :3028: mate
-:3029: material coordinates 
+:3029: material coordinates
 :3030: material derivative
 :3031: materials
 :3032: mating
 :3033: matrix
-:3034: Matts 
+:3034: Matts
 :3035: maximum energy density
 :3036: maximum evaporation rate
 :3037: maximum sound pressure
-:3038: maximum usable frequency 
+:3038: maximum usable frequency
 :3039: Maxwellian distribution
 :3040: McLeod gage
 :3041: Mcurve
-:3042: MCW 
+:3042: MCW
 :3043: Mdisplay
 :3044: mean
 :3045: mean anomaly
@@ -3044,7 +3047,7 @@
 :3047: mean deviation
 :3048: mean distance
 :3049: mean equinox
-:3050: mean equinox of date 
+:3050: mean equinox of date
 :3051: mean error
 :3052: mean free path
 :3053: mean motion
@@ -3065,9 +3068,9 @@
 :3068: mechanoreceptor
 :3069: median
 :3070: median lethal dose
-:3071: medium frequency 
-:3072: mega 
-:3073: megacycle 
+:3071: medium frequency
+:3072: mega
+:3073: megacycle
 :3074: megaparsec
 :3075: mel
 :3076: membrane structure
@@ -3075,7 +3078,7 @@
 :3078: memory capacity
 :3079: memory device
 :3080: Men Mens
-:3081: Mensa 
+:3081: Mensa
 :3082: Mercury
 :3083: mercury memory
 :3084: meridian
@@ -3101,13 +3104,13 @@
 :3104: meteoritic
 :3105: meteoritics
 :3106: meteoroid
-:3107: meteorological optics 
+:3107: meteorological optics
 :3108: meteorological rocket
 :3109: meteorology
 :3110: meteor path
 :3111: meteor shower
 :3112: meteor stream
-:3113: meteor trail 
+:3113: meteor trail
 :3114: meteor train
 :3115: meteor wake
 :3116: meter
@@ -3124,20 +3127,20 @@
 :3127: Mic Micr
 :3128: Michaelson actinograph
 :3129: Micr
-:3130: micro 
-:3131: microbar 
+:3130: micro
+:3131: microbar
 :3132: microenvironment
 :3133: microlock
 :3134: micromanometer
 :3135: micrometeorite
 :3136: micrometeorite penetration
 :3137: micrometer
-:3138: micron 
+:3138: micron
 :3139: micron liter
-:3140: micron of mercury 
+:3140: micron of mercury
 :3141: microphone
-:3142: Microscopium 
-:3143: microsecond 
+:3142: Microscopium
+:3143: microsecond
 :3144: microtorr
 :3145: microwave
 :3146: microwave refractometer
@@ -3145,7 +3148,7 @@
 :3148: microwave turbulence
 :3149: Midas
 :3150: midcourse guidance
-:3151: Midot 
+:3151: Midot
 :3152: Mie particle
 :3153: Mie scattering
 :3154: Mie theory
@@ -3153,16 +3156,16 @@
 :3156: mile
 :3157: military grid
 :3158: Milky Way
-:3159: milli 
+:3159: milli
 :3160: millibar
 :3161: milligal
-:3162: millimeter 
-:3163: millimeter of mercury 
+:3162: millimeter
+:3163: millimeter of mercury
 :3164: millimetric wave
-:3165: millimicron of mercury 
-:3166: millimicrosecond 
-:3167: million electron volt 
-:3168: millisecond 
+:3165: millimicron of mercury
+:3166: millimicrosecond
+:3167: million electron volt
+:3168: millisecond
 :3169: millitorr
 :3170: Mimas
 :3171: Mindicator
@@ -3176,21 +3179,21 @@
 :3179: minor axis
 :3180: minor lobe
 :3181: minor planet
-:3182: minute 
+:3182: minute
 :3183: mirage
-:3184: Miran 
+:3184: Miran
 :3185: Miranda
 :3186: mirror altitude
 :3187: mirror ratio
 :3188: mirror reflection
 :3189: missile
-:3190: missile ranging 
+:3190: missile ranging
 :3191: missilry
 :3192: mistake
 :3193: mixedbase notation
 :3194: mixedflow compressor
 :3195: mixed icing
-:3196: mixed reflection 
+:3196: mixed reflection
 :3197: mixing length
 :3198: mixing ratio
 :3199: mixture ratio
@@ -3203,28 +3206,28 @@
 :3206: model atmosphere
 :3207: mode of vibration
 :3208: moderator
-:3209: mode shape 
+:3209: mode shape
 :3210: modified index of refraction
-:3211: modified refractive index 
-:3212: modulated continuous wave 
+:3211: modified refractive index
+:3212: modulated continuous wave
 :3213: modulated wave
 :3214: modulating wave
 :3215: modulation
 :3216: modulation index
 :3217: modulator
 :3218: module
-:3219: modulus 
+:3219: modulus
 :3220: modulus of elasticity
 :3221: MgelDellinger effect
 :3222: moist adiabatic lapse rate
 :3223: molar
 :3224: moldavite
-:3225: mole 
+:3225: mole
 :3226: molecular drag gage
 :3227: molecular effusion
 :3228: molecular flow
 :3229: molecular flux
-:3230: molecular gage 
+:3230: molecular gage
 :3231: molecular scale temperature
 :3232: molecular weight
 :3233: molecule
@@ -3236,7 +3239,7 @@
 :3239: momentumtransport hypothesis
 :3240: Mon Mono
 :3241: monitor
-:3242: Monoceros 
+:3242: Monoceros
 :3243: monochromatic
 :3244: monocoque
 :3245: monopropellant
@@ -3246,26 +3249,26 @@
 :3249: moon
 :3250: moonrise
 :3251: moonset
-:3252: MOPTAR 
+:3252: MOPTAR
 :3253: motion
 :3254: motion sickness
 :3255: motor
 :3256: motorboating
-:3257: moving target indicator 
+:3257: moving target indicator
 :3258: Mregion
 :3259: Mregion magnetic storm
 :3260: Mscan
 :3261: Mscope
-:3262: MTI 
-:3263: MUF 
-:3264: multi 
+:3262: MTI
+:3263: MUF
+:3264: multi
 :3265: multicoupler
-:3266: multipath 
+:3266: multipath
 :3267: multipath transmission
-:3268: multiple airborne target trajectory system 
+:3268: multiple airborne target trajectory system
 :3269: multipledegreeoffreedom system
-:3270: multiple interferometer determination of trajectories abbr 
-:3271: multiple object phase tracking and ranging 
+:3270: multiple interferometer determination of trajectories abbr
+:3271: multiple object phase tracking and ranging
 :3272: multiple scattering
 :3273: multiplestage compressor
 :3274: multiplestage rocket
@@ -3282,22 +3285,22 @@
 :3285: muon
 :3286: Mus Musc
 :3287: musa antenna
-:3288: Musca 
+:3288: Musca
 :3289: myria
-:3290: myriameter 
+:3290: myriameter
 :3291: myriametric wave
-:3292: NACA 
+:3292: NACA
 :3293: NACA Standard Atmosphere
 :3294: nadir
-:3295: nano 
-:3296: nanosecond 
+:3295: nano
+:3296: nanosecond
 :3297: Napierian base
-:3298: NASA 
-:3299: NASC 
+:3298: NASA
+:3299: NASC
 :3300: natural coordinates
 :3301: natural frequency
-:3302: natural mode 
-:3303: natural year 
+:3302: natural mode
+:3303: natural year
 :3304: nausea
 :3305: Nautical Almanac
 :3306: nautical mile
@@ -3312,14 +3315,14 @@
 :3315: Ndisplay
 :3316: negative acceleration
 :3317: negative altitude
-:3318: negative divergence 
+:3318: negative divergence
 :3319: negative feedback
 :3320: negative g
 :3321: negative temperature coefficient
 :3322: negaton
 :3323: negatron
-:3324: negentropy 
-:3325: neper 
+:3324: negentropy
+:3325: neper
 :3326: nephelometer
 :3327: nephelometry
 :3328: nepheloscope
@@ -3333,7 +3336,7 @@
 :3336: neurology
 :3337: neuromuscular
 :3338: neutral
-:3339: neutral line 
+:3339: neutral line
 :3340: neutral point
 :3341: neutrino
 :3342: neutron
@@ -3356,7 +3359,7 @@
 :3359: nitrogen cycle
 :3360: nitrogen desaturation
 :3361: noctilucent clouds
-:3362: nocturnal radiation 
+:3362: nocturnal radiation
 :3363: nodal point
 :3364: node
 :3365: nodical month
@@ -3375,7 +3378,7 @@
 :3378: nonvolatile storage
 :3379: noon
 :3380: Nor Norm
-:3381: Norma 
+:3381: Norma
 :3382: normal
 :3383: normal dispersion
 :3384: normal distribution
@@ -3396,8 +3399,8 @@
 :3399: nose gear
 :3400: notation
 :3401: NOT circuit
-:3402: nova 
-:3403: nozzle 
+:3402: nova
+:3403: nozzle
 :3404: nozzle blade
 :3405: nozzlecontraction area ratio
 :3406: nozzle diaphragm
@@ -3410,14 +3413,14 @@
 :3413: nozzle throat area
 :3414: nozzle thrust coefficient
 :3415: nozzle vane
-:3416: Nscan 
+:3416: Nscan
 :3417: Nscope
-:3418: nuclear Bohr magneton 
-:3419: nuclear cross section 
+:3418: nuclear Bohr magneton
+:3419: nuclear cross section
 :3420: nuclearelectric rocket engine
 :3421: nuclear emulsion
 :3422: nuclear fuel
-:3423: nuclear magneton 
+:3423: nuclear magneton
 :3424: nuclear radiation
 :3425: nuclear reactor
 :3426: nuclear rocket engine
@@ -3431,7 +3434,7 @@
 :3434: numerical aperture
 :3435: numeric coding
 :3436: Nunit
-:3437: Nusselt number 
+:3437: Nusselt number
 :3438: nutating feed
 :3439: nutation
 :3440: nutation period
@@ -3446,7 +3449,7 @@
 :3449: oblique projection
 :3450: oblique shock
 :3451: oblique shock wave
-:3452: obliquity of the ecliptic 
+:3452: obliquity of the ecliptic
 :3453: observed
 :3454: observed altitude
 :3455: occlusion
@@ -3463,7 +3466,7 @@
 :3466: oersted
 :3467: offcenter plan position indicator
 :3468: ogive
-:3469: ohm 
+:3469: ohm
 :3470: ohmic heating
 :3471: oilcan
 :3472: omni
@@ -3478,14 +3481,14 @@
 :3481: operating ratio  computing efficiency
 :3482: operative temperature
 :3483: Oph Ophi
-:3484: Ophiuchus 
+:3484: Ophiuchus
 :3485: opposition
-:3486: optical air mass 
+:3486: optical air mass
 :3487: optical axis
 :3488: optical density
-:3489: optical depth 
+:3489: optical depth
 :3490: optical double star
-:3491: optical haze 
+:3491: optical haze
 :3492: optical line of sight
 :3493: optically effective atmosphere
 :3494: optical mass
@@ -3505,7 +3508,7 @@
 :3508: orbital period
 :3509: orbital velocity
 :3510: orbiting
-:3511: ORcircuit 
+:3511: ORcircuit
 :3512: order of magnitude
 :3513: order of reflection
 :3514: ordinary ray
@@ -3515,7 +3518,7 @@
 :3518: Ori Orio
 :3519: origin
 :3520: Orio
-:3521: Orion 
+:3521: Orion
 :3522: orthochromatic
 :3523: orthodrome
 :3524: orthogonal
@@ -3548,17 +3551,17 @@
 :3551: oximeter
 :3552: oxygen bottle
 :3553: oxygen mask
-:3554: oxygen paradox 
+:3554: oxygen paradox
 :3555: ozone layer
 :3556: ozonosphere
 :3557: package
-:3558: pad 
+:3558: pad
 :3559: pad deluge
 :3560: paddlewheel satellite
 :3561: pair production
-:3562: PAM 
-:3563: PAMFM 
-:3564: PAMFMFM 
+:3562: PAM
+:3563: PAMFM
+:3564: PAMFMFM
 :3565: panchromatic
 :3566: parabola
 :3567: parabolic
@@ -3566,7 +3569,7 @@
 :3569: parabolic reflector
 :3570: paraboloid
 :3571: paraboloidal
-:3572: parabrake 
+:3572: parabrake
 :3573: parafoveal vision
 :3574: parallactic angle
 :3575: parallactic inequality
@@ -3584,12 +3587,12 @@
 :3587: parametric equations
 :3588: parasitic element
 :3589: parcel
-:3590: Pardop 
+:3590: Pardop
 :3591: parent
 :3592: parity
 :3593: parity bit
 :3594: parking orbit
-:3595: parsec 
+:3595: parsec
 :3596: part
 :3597: partialadmission turbine
 :3598: partial correlation
@@ -3610,24 +3613,24 @@
 :3613: passive ranging Doppler system
 :3614: path
 :3615: Pav Pavo
-:3616: Pavo 
+:3616: Pavo
 :3617: payload
-:3618: payload mass ratio 
+:3618: payload mass ratio
 :3619: Pband
-:3620: PCM 
-:3621: PCMFM 
-:3622: PCMFMFM 
-:3623: PCMPM 
+:3620: PCM
+:3621: PCMFM
+:3622: PCMFMFM
+:3623: PCMPM
 :3624: Pdisplay
-:3625: PDM 
-:3626: PDMFM 
-:3627: PDMFMFM 
-:3628: PDMPM 
+:3625: PDM
+:3626: PDMFM
+:3627: PDMFMFM
+:3628: PDMPM
 :3629: peak sound pressure
 :3630: peaktopeak value
-:3631: Peclet number 
+:3631: Peclet number
 :3632: Peg Pegs
-:3633: Pegasus 
+:3633: Pegasus
 :3634: Pegs
 :3635: Peltier effect
 :3636: pencil beam
@@ -3640,11 +3643,11 @@
 :3643: Per Pers
 :3644: perfect fluid
 :3645: perfect gas
-:3646: perfect gas laws 
+:3646: perfect gas laws
 :3647: perfectly diffuse radiator
 :3648: perfectly diffuse reflector
 :3649: perfect radiator
-:3650: perfect vacuum 
+:3650: perfect vacuum
 :3651: peri
 :3652: periapsis
 :3653: periastron
@@ -3669,12 +3672,12 @@
 :3672: permeation
 :3673: permissible dose
 :3674: Pers
-:3675: Perseus 
+:3675: Perseus
 :3676: persistent train
 :3677: perturbation
 :3678: perturbation method
 :3679: perturbation quantity
-:3680: PFM 
+:3680: PFM
 :3681: phase
 :3682: phase angle
 :3683: phase constant
@@ -3683,7 +3686,7 @@
 :3686: phase front
 :3687: phase lock
 :3688: phaselock loop
-:3689: phase modulation 
+:3689: phase modulation
 :3690: phaseshaped antenna
 :3691: phases of the moon
 :3692: phase space
@@ -3694,7 +3697,7 @@
 :3697: Phobos
 :3698: Phoe
 :3699: Phoebe
-:3700: Phoenix 
+:3700: Phoenix
 :3701: phon
 :3702: phonometer
 :3703: phosphor
@@ -3713,12 +3716,12 @@
 :3716: photoelectric transducer
 :3717: photoelectron
 :3718: photogrammetry
-:3719: photographic magnitude 
+:3719: photographic magnitude
 :3720: photographic meteor
 :3721: photographic transmission density
 :3722: photoionization
 :3723: photology
-:3724: photoluminescence 
+:3724: photoluminescence
 :3725: photometer
 :3726: photometry
 :3727: photomultiplier
@@ -3738,7 +3741,7 @@
 :3741: physical double star
 :3742: physical equation
 :3743: physical meteorology
-:3744: physical system 
+:3744: physical system
 :3745: physiological acceleration
 :3746: physiology
 :3747: phytotron
@@ -3747,7 +3750,7 @@
 :3750: pickup
 :3751: pico
 :3752: Pict
-:3753: Pictor 
+:3753: Pictor
 :3754: piezoelectricity
 :3755: piezoelectric transducer
 :3756: pig discharge
@@ -3760,13 +3763,13 @@
 :3763: pip
 :3764: Pirani gage
 :3765: Pisc
-:3766: Pisces 
+:3766: Pisces
 :3767: Piscis Australis
-:3768: Piscis Austrinus 
+:3768: Piscis Austrinus
 :3769: pitch
 :3770: pitch attitude
 :3771: pitch axis
-:3772: pitching axis 
+:3772: pitching axis
 :3773: pitching moment
 :3774: pitchover
 :3775: pitotstatic head
@@ -3774,8 +3777,8 @@
 :3777: pitot tube
 :3778: pixel
 :3779: plages
-:3780: Planck constant 
-:3781: Planck distribution law 
+:3780: Planck constant
+:3781: Planck distribution law
 :3782: Planck law
 :3783: plane polarized sound wave
 :3784: planet
@@ -3786,10 +3789,10 @@
 :3789: planetary precession
 :3790: planetocentric
 :3791: planetographic
-:3792: planetoid 
+:3792: planetoid
 :3793: plane wave
 :3794: planform
-:3795: plan position indicator 
+:3795: plan position indicator
 :3796: plasma
 :3797: plasma cloud
 :3798: plasma engine
@@ -3801,11 +3804,11 @@
 :3804: plasma sheath
 :3805: plasticity
 :3806: plate
-:3807: Platonic year 
+:3807: Platonic year
 :3808: plus count
 :3809: Pluto
-:3810: PM 
-:3811: PMR 
+:3810: PM
+:3811: PMR
 :3812: pneumaticprobe pyrometer
 :3813: pod
 :3814: point discharge
@@ -3813,7 +3816,7 @@
 :3816: poise
 :3817: Poiseuille flow
 :3818: poison
-:3819: Poisson constant 
+:3819: Poisson constant
 :3820: Poisson distribution
 :3821: Poisson equation
 :3822: polar blackout
@@ -3843,7 +3846,7 @@
 :3846: positive g or positive G
 :3847: positron
 :3848: posthypoxia paradox
-:3849: potential 
+:3849: potential
 :3850: potential density
 :3851: potential energy
 :3852: potential gradient
@@ -3852,7 +3855,7 @@
 :3855: potential temperature
 :3856: potentiometer
 :3857: potentiometric transducer
-:3858: pound 
+:3858: pound
 :3859: poundal
 :3860: pound force
 :3861: pound mass
@@ -3866,12 +3869,12 @@
 :3869: power series
 :3870: power spectrum
 :3871: PoyntingRobertson effect
-:3872: PPI 
+:3872: PPI
 :3873: PPI reflectoscope
-:3874: PPI scope 
-:3875: PPM 
-:3876: PPMAM 
-:3877: Prandtl number 
+:3874: PPI scope
+:3875: PPM
+:3876: PPMAM
+:3877: Prandtl number
 :3878: preamplifier
 :3879: precession
 :3880: precession in declination
@@ -3881,10 +3884,10 @@
 :3884: precision
 :3885: precombustion chamber
 :3886: predissociation
-:3887: preliminary stage 
+:3887: preliminary stage
 :3888: presentation
 :3889: preset guidance
-:3890: pressure 
+:3890: pressure
 :3891: pressure altimeter
 :3892: pressure altitude
 :3893: pressure amplitude
@@ -3892,7 +3895,7 @@
 :3895: pressurebreathing system
 :3896: pressure broadening
 :3897: pressuredemand oxygen system
-:3898: pressure height 
+:3898: pressure height
 :3899: pressure microphone
 :3900: pressure stabilized
 :3901: pressure suit
@@ -3906,7 +3909,7 @@
 :3909: prestage
 :3910: primary
 :3911: primary body
-:3912: primary circle 
+:3912: primary circle
 :3913: primary circulation
 :3914: primary cosmic ray
 :3915: primary great circle
@@ -3923,7 +3926,7 @@
 :3926: principal stresses
 :3927: principal vertical circle
 :3928: principle of reciprocity
-:3929: probable error 
+:3929: probable error
 :3930: probability
 :3931: probability integral
 :3932: probe
@@ -3942,13 +3945,13 @@
 :3945: propagation velocity
 :3946: propagation velocity error
 :3947: propellant
-:3948: propellant mass fraction 
-:3949: propellant mass ratio 
+:3948: propellant mass fraction
+:3949: propellant mass ratio
 :3950: proper motion
 :3951: proportional control
 :3952: proportional navigation
 :3953: proprioceptive stimulation
-:3954: propulsive efficiency 
+:3954: propulsive efficiency
 :3955: proton
 :3956: protonproton reaction
 :3957: proton storm
@@ -3961,12 +3964,12 @@
 :3964: Psc A
 :3965: pseudoadiabatic expansion
 :3966: pseudocode
-:3967: pseudoequivalent temperature 
-:3968: pseudowetbulb potential temperature 
+:3967: pseudoequivalent temperature
+:3968: pseudowetbulb potential temperature
 :3969: psychology
 :3970: psychomotor ability
 :3971: psychophysical quantity
-:3972: PTM 
+:3972: PTM
 :3973: pulmonary
 :3974: pulse
 :3975: pulse amplitude
@@ -3975,7 +3978,7 @@
 :3978: pulse code modulation
 :3979: pulsed Doppler system
 :3980: pulse decay time
-:3981: pulsed radar 
+:3981: pulsed radar
 :3982: pulse duration
 :3983: pulse duration modulation
 :3984: pulse frequency modulation
@@ -3984,7 +3987,7 @@
 :3987: pulse length modulation
 :3988: pulse modulation
 :3989: pulse packet
-:3990: pulse phase modulation 
+:3990: pulse phase modulation
 :3991: pulse position modulation
 :3992: pulse radar
 :3993: pulse repeater
@@ -3992,15 +3995,15 @@
 :3995: pulse time modulation
 :3996: pulse train
 :3997: pulse width
-:3998: pulse width modulation 
+:3998: pulse width modulation
 :3999: Pup Pupp
-:4000: Puppis 
+:4000: Puppis
 :4001: purge
 :4002: Purkinje effect
 :4003: pushpull  balanced
-:4004: pushpull amplifier 
+:4004: pushpull amplifier
 :4005: pushpush circuit
-:4006: PWM 
+:4006: PWM
 :4007: pyranometer
 :4008: pyrgeometer
 :4009: pyrheliometer
@@ -4012,12 +4015,12 @@
 :4015: pyron
 :4016: pyrophoric fuel
 :4017: Pyx Pyxi
-:4018: Pyxis 
-:4019: q 
+:4018: Pyxis
+:4019: q
 :4020: Qband
 :4021: quadrant
 :4022: quadrature
-:4023: quality factor 
+:4023: quality factor
 :4024: quanta
 :4025: quantity
 :4026: quantization
@@ -4060,15 +4063,15 @@
 :4063: radial velocity
 :4064: radian
 :4065: radiance
-:4066: radiancy 
+:4066: radiancy
 :4067: radiant
 :4068: radiant density
 :4069: radiant emittance
-:4070: radiant energy 
-:4071: radiant energy density 
+:4070: radiant energy
+:4071: radiant energy density
 :4072: radiant energy thermometer
-:4073: radiant flux 
-:4074: radiant flux density 
+:4073: radiant flux
+:4074: radiant flux density
 :4075: radiant heat
 :4076: radiant intensity
 :4077: radiant temperature
@@ -4083,7 +4086,7 @@
 :4086: radiation lobe
 :4087: radiation medicine
 :4088: radiation pattern
-:4089: radiation pressure 
+:4089: radiation pressure
 :4090: radiation pyrometer
 :4091: radiation shield
 :4092: radiation sickness
@@ -4098,15 +4101,15 @@
 :4101: radio beacon
 :4102: radio beam
 :4103: radiobiology
-:4104: radio blackout 
+:4104: radio blackout
 :4105: radio channel
 :4106: radio command
 :4107: radio control
 :4108: radio direction finder
 :4109: radio duct
 :4110: radio energy
-:4111: radio fadeout 
-:4112: radiofrequency 
+:4111: radio fadeout
+:4112: radiofrequency
 :4113: radiofrequency band
 :4114: radio goniometer
 :4115: radio guidance system
@@ -4115,16 +4118,16 @@
 :4118: radio interferometer
 :4119: radio meteor
 :4120: radiometer
-:4121: radiometer vacuum gage 
+:4121: radiometer vacuum gage
 :4122: radiometric magnitude
 :4123: radiometry
 :4124: radio mirage
 :4125: radionuclide
-:4126: radiophare 
+:4126: radiophare
 :4127: radiosonde
 :4128: radiospectrum
 :4129: radio telescope
-:4130: radio theodolite 
+:4130: radio theodolite
 :4131: radio waves
 :4132: radius vector
 :4133: radix
@@ -4148,7 +4151,7 @@
 :4151: range gating
 :4152: rangeheightindicator scope
 :4153: range marker
-:4154: range only measurement of trajectory and recording 
+:4154: range only measurement of trajectory and recording
 :4155: range rate
 :4156: range ring
 :4157: range safety officer
@@ -4163,13 +4166,13 @@
 :4166: raob
 :4167: rarefraction wave
 :4168: rarefied gas dynamics
-:4169: rare gas 
+:4169: rare gas
 :4170: raster
 :4171: raster line
 :4172: rate gyro
 :4173: rate integrating gyro
 :4174: rate of decay
-:4175: rate of incidence 
+:4175: rate of incidence
 :4176: ratio deviation
 :4177: rational horizon
 :4178: RATO Rato or rato
@@ -4185,7 +4188,7 @@
 :4188: Rayleigh number
 :4189: Rayleigh scattering
 :4190: Rayleigh wave
-:4191: rays 
+:4191: rays
 :4192: ray tracing
 :4193: reaction balance
 :4194: reaction engine
@@ -4229,7 +4232,7 @@
 :4232: redout
 :4233: red shift
 :4234: Red Spot Hollow
-:4235: reduced frequency 
+:4235: reduced frequency
 :4236: redundancy
 :4237: Reech number
 :4238: reentry
@@ -4239,13 +4242,13 @@
 :4242: reentry vehicle
 :4243: reference ellipsoid
 :4244: reference frame
-:4245: reference line 
+:4245: reference line
 :4246: reference plane
 :4247: reference point
 :4248: reference signal
 :4249: referent
-:4250: reflectance 
-:4251: reflected code 
+:4250: reflectance
+:4251: reflected code
 :4252: reflected ray
 :4253: reflected wave
 :4254: reflecting telescope
@@ -4258,8 +4261,8 @@
 :4261: refracting telescope
 :4262: refraction
 :4263: refraction error
-:4264: refraction index 
-:4265: refractive index 
+:4264: refraction index
+:4265: refractive index
 :4266: refractive modulus
 :4267: refractivity
 :4268: refractometer
@@ -4273,26 +4276,26 @@
 :4276: regenerative engine
 :4277: regenerator
 :4278: region
-:4279: region of escape 
+:4279: region of escape
 :4280: register
 :4281: regression
 :4282: regression of the nodes
 :4283: regular reflection
-:4284: regular reflector 
-:4285: reheat  reheating 
+:4284: regular reflector
+:4285: reheat  reheating
 :4286: reheating
 :4287: relative
 :4288: relative angular momentum
 :4289: relative coordinate system
 :4290: relative distance
-:4291: relative humidity 
+:4291: relative humidity
 :4292: relative momentum
-:4293: relative motion 
+:4293: relative motion
 :4294: relative movement
 :4295: relative position
 :4296: relative scattering function
 :4297: relative scatter intensity
-:4298: relative speed 
+:4298: relative speed
 :4299: relative sunspot number
 :4300: relative vorticity
 :4301: relativistic
@@ -4306,7 +4309,7 @@
 :4309: reliability
 :4310: rem
 :4311: remaining body
-:4312: remanence 
+:4312: remanence
 :4313: remote control
 :4314: remote indicating
 :4315: remote velocity
@@ -4316,12 +4319,12 @@
 :4319: repeller
 :4320: reset
 :4321: residual
-:4322: residual flux density 
+:4322: residual flux density
 :4323: residual air
 :4324: residual load
 :4325: residual stress
-:4326: resistance 
-:4327: resistivity 
+:4326: resistance
+:4327: resistivity
 :4328: resolution
 :4329: resolving power
 :4330: resonance
@@ -4343,8 +4346,8 @@
 :4346: retentivity
 :4347: Reti
 :4348: reticle
-:4349: reticule 
-:4350: Reticulum 
+:4349: reticule
+:4350: Reticulum
 :4351: retrace
 :4352: retrofire
 :4353: retroflector
@@ -4364,16 +4367,16 @@
 :4367: revolution
 :4368: revolve
 :4369: rewrite
-:4370: Reynolds number 
+:4370: Reynolds number
 :4371: Reynolds stresses
-:4372: RF 
+:4372: RF
 :4373: Rhea
 :4374: rhombic antenna
 :4375: rhotheta system
 :4376: ribbon parachute
 :4377: rice grains
 :4378: rich
-:4379: Richardson number 
+:4379: Richardson number
 :4380: right ascension
 :4381: rill
 :4382: rime icing
@@ -4381,7 +4384,7 @@
 :4384: ring counter chain
 :4385: ringwall
 :4386: riometer
-:4387: Rirti 
+:4387: Rirti
 :4388: rise time
 :4389: rizalite
 :4390: Robitzsch actinograph
@@ -4396,7 +4399,7 @@
 :4399: rocket motor
 :4400: rocket nozzle
 :4401: rocket plane
-:4402: rocket propellant 
+:4402: rocket propellant
 :4403: rocket propulsion
 :4404: rocket ramjet
 :4405: rocketry
@@ -4411,35 +4414,35 @@
 :4414: rod threshold
 :4415: roentgen
 :4416: roentgenequivalentman
-:4417: roentgenequivalentphysical 
+:4417: roentgenequivalentphysical
 :4418: Roentgen ray
 :4419: roll
 :4420: roll axis
 :4421: rolling axis
 :4422: rolling moment
 :4423: roll out
-:4424: Romotar 
+:4424: Romotar
 :4425: root chord
-:4426: rootmeansquare error 
-:4427: rootmeansquare sound pressure  effective sound 
+:4426: rootmeansquare error
+:4427: rootmeansquare sound pressure  effective sound
 :4428: rope
 :4429: rotate
 :4430: rotating cylinder gage
 :4431: rotating disk gage
 :4432: rotating Reynolds number
 :4433: rotation
-:4434: rotational speed 
+:4434: rotational speed
 :4435: rotational wave
 :4436: rotation Reynolds number
-:4437: Roti 
+:4437: Roti
 :4438: rotor
-:4439: rotor angular momentum 
+:4439: rotor angular momentum
 :4440: rotor moment of inertia
 :4441: rounding error
 :4442: round off
-:4443: roundoff error 
+:4443: roundoff error
 :4444: routine
-:4445: RP 
+:4445: RP
 :4446: RP1
 :4447: Rtheta system
 :4448: RT unit
@@ -4447,8 +4450,8 @@
 :4450: rumble
 :4451: rupture disk
 :4452: sabot
-:4453: Sagitta 
-:4454: Sagittarius 
+:4453: Sagitta
+:4454: Sagittarius
 :4455: salvo launch
 :4456: sample
 :4457: sandwich
@@ -4467,11 +4470,11 @@
 :4470: scalar product
 :4471: scalar velocity
 :4472: scale effect
-:4473: scale height 
+:4473: scale height
 :4474: scale model
 :4475: scale of 10 counter
 :4476: scaler
-:4477: scaling circuit 
+:4477: scaling circuit
 :4478: scaling factor
 :4479: scanner
 :4480: scanning
@@ -4483,7 +4486,7 @@
 :4486: scatterer
 :4487: scattering
 :4488: scattering area coefficient
-:4489: scattering area ratio 
+:4489: scattering area ratio
 :4490: scattering coefficient
 :4491: scattering cross section
 :4492: scattering function
@@ -4510,7 +4513,7 @@
 :4513: Sco Scor
 :4514: scope
 :4515: Scor
-:4516: Scorpius 
+:4516: Scorpius
 :4517: scotopic vision
 :4518: screaming
 :4519: screeching
@@ -4518,8 +4521,8 @@
 :4521: scrub
 :4522: Sct Scut
 :4523: Scul
-:4524: Sculptor 
-:4525: Scutum 
+:4524: Sculptor
+:4525: Scutum
 :4526: sea clutter
 :4527: sealed cabin
 :4528: sea level  mean sea level
@@ -4529,9 +4532,9 @@
 :4532: sea return
 :4533: seat belt
 :4534: seattohead acceleration
-:4535: second 
+:4535: second
 :4536: secondary
-:4537: secondary circle 
+:4537: secondary circle
 :4538: secondary cosmic radiation
 :4539: secondary cosmic rays
 :4540: secondary electron emission
@@ -4542,7 +4545,7 @@
 :4545: secondary radiation
 :4546: secondary scattering
 :4547: second law of thermodynamics
-:4548: Secor 
+:4548: Secor
 :4549: SecorDME
 :4550: section
 :4551: sectionalized vertical antenna
@@ -4563,7 +4566,7 @@
 :4566: selenology
 :4567: selfadaptive control system
 :4568: selfbalancing potentiometer
-:4569: selfexcited vibration 
+:4569: selfexcited vibration
 :4570: selfinduced vibration
 :4571: selfinformation
 :4572: selsyn
@@ -4575,8 +4578,8 @@
 :4578: semidiameter
 :4579: semidiameter correction
 :4580: semidiurnal
-:4581: semimajor axis 
-:4582: semiminor axis 
+:4581: semimajor axis
+:4582: semiminor axis
 :4583: semimonocoque
 :4584: semitransparent photocathode
 :4585: sensation level
@@ -4586,7 +4589,7 @@
 :4589: sensible atmosphere
 :4590: sensible horizon
 :4591: sensible temperature
-:4592: sensing element 
+:4592: sensing element
 :4593: sensitivity
 :4594: sensitometry
 :4595: sensor
@@ -4597,14 +4600,14 @@
 :4600: sequential collation of range
 :4601: sequential control
 :4602: Ser Serp
-:4603: Serpens 
+:4603: Serpens
 :4604: servo
 :4605: servomechanism
 :4606: set
 :4607: Sex Sext
 :4608: sexidemical notation
 :4609: Sext
-:4610: Sextans 
+:4610: Sextans
 :4611: sextant
 :4612: sextant altitude
 :4613: sferics
@@ -4637,21 +4640,21 @@
 :4640: shock tube
 :4641: shock tunnel
 :4642: shock wave
-:4643: Shodop 
-:4644: shooting star 
+:4643: Shodop
+:4644: shooting star
 :4645: shoran
 :4646: shortbaseline system
-:4647: shortperiod error 
-:4648: shortrange Doppler 
+:4647: shortperiod error
+:4648: shortrange Doppler
 :4649: shortrange navigation
 :4650: shortwave radiation
 :4651: shot
 :4652: shoulder harness
 :4653: shower
 :4654: shutdown
-:4655: shutoff 
-:4656: SI 
-:4657: SID 
+:4655: shutoff
+:4656: SI
+:4657: SID
 :4658: sideband
 :4659: side lobe
 :4660: sidereal
@@ -4661,7 +4664,7 @@
 :4664: sidereal period
 :4665: sidereal time
 :4666: sidereal year
-:4667: sight 
+:4667: sight
 :4668: sigma
 :4669: signal
 :4670: signal strength
@@ -4675,7 +4678,7 @@
 :4678: simple harmonic motion
 :4679: simple harmonic quantity
 :4680: simple reflection
-:4681: simple reflector 
+:4681: simple reflector
 :4682: simple standard deviation
 :4683: sine wave
 :4684: singledegreeoffreedom system
@@ -4690,10 +4693,10 @@
 :4693: sintered ceramic
 :4694: sintering
 :4695: sinus
-:4696: sinus barotrauma 
+:4696: sinus barotrauma
 :4697: sinusoidal
 :4698: skiatron
-:4699: skimmer basin 
+:4699: skimmer basin
 :4700: skin
 :4701: skin temperature
 :4702: skin tracking
@@ -4701,8 +4704,8 @@
 :4704: skirt
 :4705: skirt fog
 :4706: skyhook balloon
-:4707: sky light 
-:4708: sky radiation 
+:4707: sky light
+:4708: sky radiation
 :4709: sky screen
 :4710: sky wave
 :4711: slant range
@@ -4718,17 +4721,17 @@
 :4721: slip flow
 :4722: slope angle
 :4723: sloshing
-:4724: slow ion 
+:4724: slow ion
 :4725: slug
 :4726: slurry
 :4727: slurry fuel
-:4728: small calorie 
+:4728: small calorie
 :4729: small circle
 :4730: small ion
 :4731: small perturbation
 :4732: Snell law
 :4733: Snort track
-:4734: snow 
+:4734: snow
 :4735: snubber
 :4736: sofar
 :4737: softening range
@@ -4762,9 +4765,9 @@
 :4765: solar tide
 :4766: solar time
 :4767: solar wind
-:4768: solar year 
+:4768: solar year
 :4769: solenoid
-:4770: solid angle 
+:4770: solid angle
 :4771: solid propellant
 :4772: solidpropellant engine
 :4773: solidpropellant rocket engine
@@ -4782,7 +4785,7 @@
 :4785: sonic agglomeration
 :4786: sonic barrier
 :4787: sonic boom
-:4788: sonic delay line 
+:4788: sonic delay line
 :4789: sonic drilling
 :4790: sonic frequency
 :4791: sonics
@@ -4796,7 +4799,7 @@
 :4799: sorption
 :4800: sound
 :4801: sound absorption
-:4802: sound barrier 
+:4802: sound barrier
 :4803: sound energy
 :4804: sound energy density
 :4805: sound energy flux
@@ -4815,7 +4818,7 @@
 :4818: source
 :4819: southbound node
 :4820: South Tropical Disturbance
-:4821: SP 
+:4821: SP
 :4822: space
 :4823: spaceair vehicle
 :4824: space biology
@@ -4841,12 +4844,12 @@
 :4844: specific
 :4845: specific heat
 :4846: specific humidity
-:4847: specific impulse 
+:4847: specific impulse
 :4848: specific power
 :4849: specific propellant consumption
 :4850: specific speed
 :4851: specific thrust
-:4852: specific volume 
+:4852: specific volume
 :4853: spectra
 :4854: spectral
 :4855: spectral absorptance
@@ -4866,9 +4869,9 @@
 :4869: specular reflector
 :4870: specular transmission density
 :4871: speed
-:4872: speed of light 
+:4872: speed of light
 :4873: speed of relative movement
-:4874: speed of sound 
+:4874: speed of sound
 :4875: sphere of influence
 :4876: sphere of position
 :4877: spherical angle
@@ -4902,7 +4905,7 @@
 :4905: spray region
 :4906: spread reflection
 :4907: spurious disk
-:4908: spurious emission 
+:4908: spurious emission
 :4909: spurious radiation
 :4910: spurious response
 :4911: spurious transmitter output
@@ -4912,7 +4915,7 @@
 :4915: squib
 :4916: squitch
 :4917: squitter
-:4918: SSB 
+:4918: SSB
 :4919: SS loran
 :4920: stability
 :4921: stability augmentation system
@@ -4931,9 +4934,9 @@
 :4934: standard artillery zone
 :4935: standard atmosphere
 :4936: standard conditions
-:4937: standard deviation 
+:4937: standard deviation
 :4938: standarddeviation estimate
-:4939: standard error of estimate 
+:4939: standard error of estimate
 :4940: standard gravity
 :4941: standardization
 :4942: standardize
@@ -4951,7 +4954,7 @@
 :4954: star catalogue
 :4955: star classification
 :4956: star cluster
-:4957: star grain 
+:4957: star grain
 :4958: Stark effect
 :4959: star perforated grain
 :4960: starting pressure
@@ -4962,7 +4965,7 @@
 :4965: static
 :4966: static conversion
 :4967: static firing
-:4968: static pressure 
+:4968: static pressure
 :4969: static test
 :4970: static testing
 :4971: station
@@ -4990,10 +4993,10 @@
 :4993: stellar inertial guidance
 :4994: stellar magnitude
 :4995: stellar map matching
-:4996: stellar parallax 
-:4997: stellar scintillation 
-:4998: St Elmos fire 
-:4999: step rocket 
+:4996: stellar parallax
+:4997: stellar scintillation
+:4998: St Elmos fire
+:4999: step rocket
 :5000: steradian
 :5001: stereochemistry
 :5002: sternumward acceleration
@@ -5028,7 +5031,7 @@
 :5031: stretchout
 :5032: strewn field
 :5033: stringer
-:5034: Strouhal number 
+:5034: Strouhal number
 :5035: structural weight
 :5036: subassembly
 :5037: subastral point
@@ -5044,7 +5047,7 @@
 :5047: sublimation
 :5048: subliming ablator
 :5049: sublunar point
-:5050: subpermanent magnetism 
+:5050: subpermanent magnetism
 :5051: subrefraction
 :5052: subroutine
 :5053: subsatellite point
@@ -5072,13 +5075,13 @@
 :5075: superadiabatic lapse rate
 :5076: superalloy
 :5077: supercommutation
-:5078: super high frequency 
+:5078: super high frequency
 :5079: superior conjunction
 :5080: superior mirage
 :5081: superior planets
-:5082: superior transit 
+:5082: superior transit
 :5083: superpressure balloon
-:5084: superrefraction 
+:5084: superrefraction
 :5085: supersonic
 :5086: supersonic compressor
 :5087: supersonic diffuser
@@ -5124,9 +5127,9 @@
 :5127: systematic error
 :5128: system of astronomical constants
 :5129: syzygy
-:5130: Tacan 
+:5130: Tacan
 :5131: tachycardia
-:5132: tactical air navigation 
+:5132: tactical air navigation
 :5133: tail
 :5134: tail fin
 :5135: tailward acceleration
@@ -5137,7 +5140,7 @@
 :5140: tangent ogive
 :5141: tank
 :5142: tankage
-:5143: Tare 
+:5143: Tare
 :5144: target
 :5145: target acquisition
 :5146: target board
@@ -5145,8 +5148,8 @@
 :5148: target glint
 :5149: target signal
 :5150: Tau Taur
-:5151: Taurus 
-:5152: Taylor number 
+:5151: Taurus
+:5152: Taylor number
 :5153: Taylor series
 :5154: Taylor theorem
 :5155: teardrop balloon
@@ -5161,13 +5164,13 @@
 :5164: telemetry elsse
 :5165: telephotometer
 :5166: telephotometry
-:5167: Telescopium 
+:5167: Telescopium
 :5168: telluric lines
 :5169: temperature
 :5170: tensor
-:5171: tera 
-:5172: teracycle 
-:5173: tercentesimal thermometric scale  approximate absolute 
+:5171: tera
+:5172: teracycle
+:5173: tercentesimal thermometric scale  approximate absolute
 :5174: terminal
 :5175: terminal ballistics
 :5176: terminal guidance
@@ -5175,19 +5178,19 @@
 :5178: terminator
 :5179: ternary notation
 :5180: terrestrial
-:5181: terrestrial coordinates 
+:5181: terrestrial coordinates
 :5182: terrestrial equator
 :5183: terrestrial latitude
 :5184: terrestrial longitude
 :5185: terrestrial magnetism
-:5186: terrestrial meridian 
+:5186: terrestrial meridian
 :5187: terrestrial pole
 :5188: terrestrial radiation
 :5189: terrestrialreference guidance
 :5190: terrestrial refraction
 :5191: terrestrial refraction error
 :5192: terrestrial scintillation
-:5193: tesla 
+:5193: tesla
 :5194: terrestrial triangle
 :5195: test
 :5196: test bed
@@ -5200,7 +5203,7 @@
 :5203: theodolite
 :5204: theoretical rocket
 :5205: thermal
-:5206: thermal accommodation coefficient 
+:5206: thermal accommodation coefficient
 :5207: thermal barrier
 :5208: thermal conductivity
 :5209: thermal conductivity vacuum gage
@@ -5219,7 +5222,7 @@
 :5222: thermal tide
 :5223: thermal transpiration
 :5224: thermionic
-:5225: thermionic cathode 
+:5225: thermionic cathode
 :5226: thermionic conversion
 :5227: thermionic emission
 :5228: thermionic tube
@@ -5237,7 +5240,7 @@
 :5240: thermodynamic probability
 :5241: thermodynamics
 :5242: thermodynamic temperature scale
-:5243: thermodynamic variable 
+:5243: thermodynamic variable
 :5244: thermogravimetric analysis
 :5245: thermometer
 :5246: thermonuclear
@@ -5266,8 +5269,8 @@
 :5269: thrust augmentation
 :5270: thrust augmenter
 :5271: thrust axis
-:5272: thrust chamber 
-:5273: thrust coefficient 
+:5272: thrust chamber
+:5273: thrust coefficient
 :5274: thrust horsepower
 :5275: thrust loading
 :5276: thrust meter
@@ -5278,11 +5281,11 @@
 :5281: thrustweight ratio
 :5282: tick
 :5283: tickle
-:5284: tidal day 
+:5284: tidal day
 :5285: tide
 :5286: tilt table
 :5287: timbre
-:5288: time 
+:5288: time
 :5289: time constant
 :5290: time division multiplex
 :5291: time lag
@@ -5301,9 +5304,9 @@
 :5304: topocentric
 :5305: topple
 :5306: topple axis
-:5307: tor 
+:5307: tor
 :5308: torching
-:5309: torque 
+:5309: torque
 :5310: torquer
 :5311: torquing
 :5312: torr
@@ -5311,18 +5314,18 @@
 :5314: total curvature
 :5315: total eclipse
 :5316: total emissive power
-:5317: total emissivity 
+:5317: total emissivity
 :5318: total emittance  total emissive power See emittance
 :5319: total energy equation
-:5320: total head 
-:5321: total impulse 
+:5320: total head
+:5321: total impulse
 :5322: total potential energy
 :5323: total pressure
 :5324: totalpressure tube
 :5325: total radiation
 :5326: total refraction
-:5327: total scattering coefficient 
-:5328: total scattering cross section 
+:5327: total scattering coefficient
+:5328: total scattering cross section
 :5329: total solar eclipse
 :5330: toughness
 :5331: towering
@@ -5346,10 +5349,10 @@
 :5349: transducer gain
 :5350: transfer ellipse
 :5351: transfer orbit
-:5352: transient problem 
+:5352: transient problem
 :5353: transistor
 :5354: transit
-:5355: transition flow 
+:5355: transition flow
 :5356: transition maneuver
 :5357: transition point
 :5358: transition temperature
@@ -5359,15 +5362,15 @@
 :5362: translunar
 :5363: translunar space
 :5364: transmission
-:5365: transmission coefficient 
+:5365: transmission coefficient
 :5366: transmission loss
 :5367: transmission system
 :5368: transmission time
-:5369: transmissivity 
+:5369: transmissivity
 :5370: transmissometer
 :5371: transmissiometry
-:5372: transmittance 
-:5373: transmittance meter 
+:5372: transmittance
+:5373: transmittance meter
 :5374: transmitted power
 :5375: transmitter
 :5376: transonic
@@ -5378,18 +5381,18 @@
 :5381: transpiration cooling
 :5382: transponder
 :5383: transponder beacon
-:5384: transport 
+:5384: transport
 :5385: transverse
-:5386: transverse sensitivity 
+:5386: transverse sensitivity
 :5387: transverse vibration
 :5388: transverse wave
 :5389: trap
 :5390: trapping
 :5391: Tr Au
 :5392: traveling plane wave
-:5393: travelingwave tube 
+:5393: travelingwave tube
 :5394: Tri Tria
-:5395: Triangulum 
+:5395: Triangulum
 :5396: Triangulum Australe
 :5397: Tridop
 :5398: triple point
@@ -5415,9 +5418,9 @@
 :5418: true prime vertical
 :5419: true sun
 :5420: truncation error
-:5421: trunk 
+:5421: trunk
 :5422: Ttime
-:5423: Tucana 
+:5423: Tucana
 :5424: Tucn
 :5425: Tuc Tucn
 :5426: tumble
@@ -5463,11 +5466,11 @@
 :5466: vapor pressure
 :5467: vapor tension
 :5468: vapor thorax
-:5469: vapor trail 
+:5469: vapor trail
 :5470: variablearea exhaust nozzle
 :5471: variable cycle
-:5472: variance 
-:5473: variate 
+:5472: variance
+:5473: variate
 :5474: variation
 :5475: variation of latitude
 :5476: variometer
@@ -5481,13 +5484,13 @@
 :5484: vehicle control system
 :5485: vehicle mass ratio
 :5486: Vel Velr
-:5487: Vela 
+:5487: Vela
 :5488: velocimeter
-:5489: velocity 
+:5489: velocity
 :5490: velocity head
 :5491: velocity microphone
 :5492: velocity of escape
-:5493: velocity of light 
+:5493: velocity of light
 :5494: velocity of propagation
 :5495: velocity of sound
 :5496: velocity pressure
@@ -5509,17 +5512,17 @@
 :5512: vertical gyro
 :5513: vertical scanning
 :5514: vertigo
-:5515: very high frequency 
+:5515: very high frequency
 :5516: veryhighspeed motionpicture
-:5517: very low frequency 
-:5518: vestigial sideband 
-:5519: VHF 
+:5517: very low frequency
+:5518: vestigial sideband
+:5519: VHF
 :5520: vibration
 :5521: vibration isolator
 :5522: video
 :5523: videofrequency
-:5524: video signal 
-:5525: Virgo 
+:5524: video signal
+:5525: Virgo
 :5526: vidicon
 :5527: view factor
 :5528: Vir Virg
@@ -5542,27 +5545,27 @@
 :5545: visible horizon
 :5546: visible radiation
 :5547: visible spectrum
-:5548: visual magnitude 
+:5548: visual magnitude
 :5549: visual photometer
 :5550: visual photometry
 :5551: visual range
 :5552: vitrifying tendency
-:5553: VLF 
+:5553: VLF
 :5554: void fraction
 :5555: Vol Voln
-:5556: Volans 
+:5556: Volans
 :5557: Voln
-:5558: volt 
+:5558: volt
 :5559: volume level
 :5560: volume scattering function
 :5561: volume unit
-:5562: VOR 
+:5562: VOR
 :5563: vortex
 :5564: vortex filament
 :5565: vortex line
 :5566: vortex ring
 :5567: vortex street
-:5568: vortex trail 
+:5568: vortex trail
 :5569: vortex train
 :5570: vortex tube
 :5571: vorticity
@@ -5570,7 +5573,7 @@
 :5573: vorticity of the earth
 :5574: vorticitytransport hypothesis
 :5575: Vul Vulp
-:5576: Vulpecula 
+:5576: Vulpecula
 :5577: walkaround bottle
 :5578: walled plain
 :5579: wander
@@ -5578,13 +5581,13 @@
 :5581: warhead
 :5582: warmup time
 :5583: water
-:5584: waterfall effect 
+:5584: waterfall effect
 :5585: waterflow pyrheliometer
 :5586: water substance
 :5587: water suit
 :5588: water vapor
 :5589: watervapor absorption
-:5590: watt 
+:5590: watt
 :5591: wave
 :5592: wave equation
 :5593: wave filter
@@ -5595,18 +5598,18 @@
 :5598: wavelength
 :5599: wavelets
 :5600: wave motion
-:5601: wave number 
+:5601: wave number
 :5602: wave of translation
 :5603: wave speed
 :5604: wave theory of light
 :5605: wave train
-:5606: wave velocity 
+:5606: wave velocity
 :5607: web
-:5608: weber 
+:5608: weber
 :5609: WeberFechner law
-:5610: Weber law 
-:5611: weight 
-:5612: weight flow rate 
+:5610: Weber law
+:5611: weight
+:5612: weight flow rate
 :5613: weightlessness
 :5614: welding
 :5615: wet
@@ -5630,10 +5633,10 @@
 :5633: wireless
 :5634: wire link telemetry
 :5635: Wolf number
-:5636: WolfWolferWolfest number 
+:5636: WolfWolferWolfest number
 :5637: word
 :5638: word rate
-:5639: work 
+:5639: work
 :5640: work function
 :5641: working fluid
 :5642: World Geographic Reference System
@@ -5642,21 +5645,21 @@
 :5645: Xray
 :5646: Xradiation
 :5647: yagi antenna
-:5648: yard 
+:5648: yard
 :5649: yaw
 :5650: yaw angle
 :5651: yaw axis
-:5652: yawing axis 
+:5652: yawing axis
 :5653: yawing moment
 :5654: year
-:5655: Young modulus 
+:5655: Young modulus
 :5656: zenith
 :5657: zenithal
 :5658: zenith attraction
 :5659: zenith distance
 :5660: zenographic
 :5661: zero gravity
-:5662: zerog 
+:5662: zerog
 :5663: zero launch
 :5664: zerolength launcher
 :5665: zerolength rocket
@@ -5668,4 +5671,4 @@
 :5671: zodiacal light
 :5672: zone time
 :5673: ztime
-:5674: Zurich number 
+:5674: Zurich number
