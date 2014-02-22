@@ -29,6 +29,10 @@ def get_sentence lines
 	sentence
 end
 
+def get_paragraphs
+
+end
+
 # ----------------------------
 # ------ Method Barrier ------
 # ----------------------------
