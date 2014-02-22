@@ -2,7 +2,7 @@ require 'pry'
 
 def get_lines
 	counter = 1
-	File.open("pages/dictionary.md").each do |line|
+	File.open("dictionary.md").each do |line|
 		counter += 1
 	end
 	counter
@@ -16,7 +16,7 @@ def get_sentence lines
 	while words_ctr < words_per_sentence
 		random_line = ":" + rand(lines).to_s + ":" # returns line number in format of 123:
 
-		File.open("pages/dictionary.md").each do |line|
+		File.open("dictionary.md").each do |line|
 			if line.include?(random_line)
 				sentence << line.gsub(/(\:\d*\:\s)/, '').chomp
 			end

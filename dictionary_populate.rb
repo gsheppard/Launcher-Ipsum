@@ -1,5 +1,5 @@
 alpha = 'a'
-dictionary_filename = "pages/dictionary.md"
+dictionary_filename = "dictionary.md"
 
 counter = 1
 File.open(dictionary_filename, "w") do |dict_file|
