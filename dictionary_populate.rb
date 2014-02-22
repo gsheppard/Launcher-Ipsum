@@ -1,6 +1,7 @@
 alpha = 'a'
 dictionary_filename = "pages/dictionary.md"
 
+counter = 1
 File.open(dictionary_filename, "w") do |dict_file|
 	while alpha != 'z'.next
 		File.open("pages/nasa_#{alpha}.html").each do |line|
@@ -12,7 +13,8 @@ File.open(dictionary_filename, "w") do |dict_file|
 				line.gsub!(/\(.*\).*/, '')
 				line.gsub!(/^\s*/, '')
 				line.gsub!(/[^a-zA-Z0-9\s]/, "")
-				dict_file.write line
+				dict_file.write ":#{counter.to_s}: #{line}"
+				counter += 1
 			end
 		end
 
