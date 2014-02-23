@@ -1,11 +1,15 @@
 require 'pry'
 
 def get_lines
-	counter = 1
+	counter = 0
 	File.open("dictionary.md").each do |line|
 		counter += 1
 	end
 	counter
+end
+
+def valid? answer
+	answer.match(/\d/) ? true : false
 end
 
 def get_sentence lines
@@ -29,7 +33,7 @@ def get_sentence lines
 	sentence
 end
 
-def get_paragraph lines
+def get_paragraph lines # dependent on get_sentence
 	sent_per_paragraph = rand(4..12)
 	sent_ctr = 0
 	single_paragraph = []
@@ -49,16 +53,22 @@ end
 puts "Launcher Ipsum"
 ipsum = []
 
-lines = get_lines() - 1
+lines = get_lines()
 
-print "How many paragraphs do you need? "
+print "How many paragraphs do you need? (1-20) "
+num_paragraphs = gets.chomp
 
-num_paragraphs = gets.chomp.to_i
+while num_paragraphs.to_i > 20 || num_paragraphs.to_i < 1 || !valid?(num_paragraphs)
+	puts ">> That's not valid."
+	print "How many paragraphs (within reason) do you need? (1-20) "
+	num_paragraphs = gets.chomp
+end
+
 puts "---------------------------------"
 
 # Build paragraphs
 loop_ctr = 0
-while loop_ctr < num_paragraphs
+while loop_ctr < num_paragraphs.to_i
 	ipsum << get_paragraph(lines)
 	loop_ctr += 1
 end
