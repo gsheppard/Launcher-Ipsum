@@ -1,4 +1,4 @@
-Launcher-Ipsum
+Launcher Ipsum
 ==============
 
 Launcher Ipsum is a small program that generates Lorem Ipsum-like text but uses a NASA dictionary instead.
