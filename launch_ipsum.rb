@@ -29,28 +29,7 @@ def get_sentence lines
 	sentence
 end
 
-def get_paragraphs
-
-end
-
-# ----------------------------
-# ------ Method Barrier ------
-# ----------------------------
-
-puts "Launcher Ipsum"
-
-lines = get_lines() - 1
-ipsum = []
-
-print "How many paragraphs do you need? "
-num_paragraphs = gets.chomp.to_i
-puts "---------------------------------"
-
-# Build paragraphs
-
-loop_ctr = 0
-while num_paragraphs > loop_ctr
-
+def get_paragraph lines
 	sent_per_paragraph = rand(4..12)
 	sent_ctr = 0
 	single_paragraph = []
@@ -60,7 +39,27 @@ while num_paragraphs > loop_ctr
 		sent_ctr += 1
 	end
 
-	ipsum << single_paragraph
+	single_paragraph
+end
+
+# ----------------------------
+# ------ Method Barrier ------
+# ----------------------------
+
+puts "Launcher Ipsum"
+ipsum = []
+
+lines = get_lines() - 1
+
+print "How many paragraphs do you need? "
+
+num_paragraphs = gets.chomp.to_i
+puts "---------------------------------"
+
+# Build paragraphs
+loop_ctr = 0
+while loop_ctr < num_paragraphs
+	ipsum << get_paragraph(lines)
 	loop_ctr += 1
 end
 
