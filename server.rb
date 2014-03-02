@@ -3,15 +3,17 @@ require 'shotgun'
 require 'pry'
 load 'launch_ipsum.rb'
 
+set :views, File.dirname(__FILE__) + '/views'
+set :public_folder, File.dirname(__FILE__) + '/public'
+
 lines = get_lines()
-# ipsum = build_paragraphs(lines, 4)
 
 get '/' do
-
-  erb :index
+  @num_paragraphs = 0
+  erb :ipsum
 end
 
-post '/ipsum' do
+post '/' do
   @num_paragraphs = params[:paragraphs].to_i
   @ipsum = build_paragraphs(lines, @num_paragraphs)
   erb :ipsum
