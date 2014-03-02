@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Launcher Ipsum</title>
+  </head>
+
+  <body>
+
+    <form action="/ipsum" method="post">
+      <input type="text" name="paragraphs" />
+      <input type="submit" name="submit" />
+    </form>
+
+      <% @ipsum.each do |para| %>
+        <p>
+        <% para.each do |sent| %>
+          <%= sent.join(' ') %>.
+        <% end %>
+        </p>
+      <% end %>
+
+  </body>
+</html>
