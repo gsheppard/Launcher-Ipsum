@@ -1,8 +1,12 @@
 Launcher Ipsum
 ==============
 
-Launcher Ipsum is a small program that generates Lorem Ipsum-like text but uses a NASA dictionary instead.
-There are actually 3 small methods that I inadvertantly made just to get the information:
-- nasa_download.rb (now a part of dictionary_populate.rb) : Downloads the HTML files for each letter of the alphabet
-- dictionary_populate.rb : Parses the HTML files looking for word entries, and then strips the junk characters and saves the information in a more searchable way.
-- launch_ipsum.rb : Actually generates the ipsum based on the words in dictionary.md. Paragraph and sentence length are randomly selected. Amount of paragraphs are selected by user. Allows for file validation of the dictionary file, the dictionary_populate file, and the HTML files.
+v 0.2
+Launcher Ipsum is a small web app that randomnly selects words from a file to create a Lorem Ipsum like variant, but uses words found in the NASA ditionary.
+
+Other smaller programs created during this process:
+- nasa_download: Downloads the web pages for each letter of the alphabet associated with the NASA dictionary
+- dictionary_populate: parses the above HTML files looking for word entries and loads them into a text file.
+
+v 0.1
+Was a command line-based version
